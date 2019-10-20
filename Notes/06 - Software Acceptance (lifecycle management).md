@@ -22,9 +22,11 @@
 - Impact of the software to the existing system/process.
 
 ---
+### Guidelines for Software Acceptance
 
+#### A
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTgwODE5OCw2NzU4MTI5NSwxNDA4OT
+eyJoaXN0b3J5IjpbMjA1MjM2OTU3Niw2NzU4MTI5NSwxNDA4OT
 Q4MjE4XX0=
 -->
