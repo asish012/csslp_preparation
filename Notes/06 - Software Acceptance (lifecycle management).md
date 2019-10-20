@@ -19,7 +19,8 @@
 
 ### Key concepts:
 -   Know the difference between certification and accreditation (C&A) and understand how V&V can be used for C&A.
-- Impact 
+- Impact of the software to the existing system/process.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTIwNTQ5NCwxNDA4OTQ4MjE4XX0=
+eyJoaXN0b3J5IjpbNjc1ODEyOTUsMTQwODk0ODIxOF19
 -->
