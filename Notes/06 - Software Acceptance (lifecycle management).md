@@ -5,19 +5,19 @@
 		- Documentation
 		- DRP
 		- BCP
-	- Risk Acceptance
-		- Exception Policy
-		- Sign-off
-	- Post-Release
-		- Validation and Verification
-			- FIPS
-			- Common Criteria
-		- Independent Testing
-			- Third Party
+- Risk Acceptance
+	- Exception Policy
+	- Sign-off
+- Post-Release
+	- Validation and Verification
+		- FIPS
+		- Common Criteria
+	- Independent Testing
+		- Third Party
 
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODI1MTk1MF19
+eyJoaXN0b3J5IjpbMTQwODk0ODIxOF19
 -->
