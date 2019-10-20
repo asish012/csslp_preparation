@@ -37,9 +37,10 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 **EULA** End User Licensing Agreements
 **DMCA** Digital Millennium Copyright Act
 
+**Acceptance**: The final checkpoint to discover missed and unforeseen security vulnerabilities and to validate the presence of security controls.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDU4MTg2OCwtNzQ3MDUzNjM0LC03Mz
+eyJoaXN0b3J5IjpbMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC03Mz
 I0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5
 NSwxNDA4OTQ4MjE4XX0=
 -->
