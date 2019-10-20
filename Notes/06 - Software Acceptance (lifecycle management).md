@@ -35,9 +35,10 @@
 Defense in Depth implies Security in Design, Default, and Deployment.
 
 **EULA** End User Licensing Agreements
+**DMCA** Digital Millennium Copyright Act
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMTM1MjgyLC03MzI0NzI2MTgsLTE3Nj
-IxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5NSwxNDA4OTQ4MjE4
-XX0=
+eyJoaXN0b3J5IjpbLTc0NzA1MzYzNCwtNzMyNDcyNjE4LC0xNz
+YyMTYwMTk5LDIwNzM0MjkzNDMsNjc1ODEyOTUsMTQwODk0ODIx
+OF19
 -->
