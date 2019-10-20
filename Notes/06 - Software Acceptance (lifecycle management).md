@@ -24,7 +24,7 @@
 ---
 ### Guidelines for Software Acceptance
 
-#### Acceptance Criteria
+**Acceptance Criteria**  
 - Functionality
 - Performance
 - Quality
@@ -32,6 +32,6 @@
 - Privacy and Security
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTA4NTQ0Myw2NzU4MTI5NSwxNDA4OT
+eyJoaXN0b3J5IjpbMjA3MzQyOTM0Myw2NzU4MTI5NSwxNDA4OT
 Q4MjE4XX0=
 -->
