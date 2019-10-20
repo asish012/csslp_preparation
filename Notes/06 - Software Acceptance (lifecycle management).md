@@ -31,8 +31,10 @@
 - Safety
 - Privacy and Security
 
+**SD3**  
+Security in Design, Default, and Deployment
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDM1ODk4OSwyMDczNDI5MzQzLDY3NT
-gxMjk1LDE0MDg5NDgyMThdfQ==
+eyJoaXN0b3J5IjpbLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2Nz
+U4MTI5NSwxNDA4OTQ4MjE4XX0=
 -->
