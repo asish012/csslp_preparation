@@ -21,6 +21,10 @@
 -   Know the difference between certification and accreditation (C&A) and understand how V&V can be used for C&A.
 - Impact of the software to the existing system/process.
 
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1ODEyOTUsMTQwODk0ODIxOF19
+eyJoaXN0b3J5IjpbMTcyNTgwODE5OCw2NzU4MTI5NSwxNDA4OT
+Q4MjE4XX0=
 -->
