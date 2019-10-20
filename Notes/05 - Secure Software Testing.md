@@ -1,4 +1,5 @@
 ## Table of Content
+
 - Testing Artifacts (e.g., strategies, plans, cases)
 	- Functional Testing
 	- Nonfunctional Testing
@@ -32,5 +33,5 @@
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzU4MjI1M119
+eyJoaXN0b3J5IjpbOTkwNzk4NzFdfQ==
 -->
