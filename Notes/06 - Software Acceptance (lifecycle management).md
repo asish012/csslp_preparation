@@ -24,9 +24,14 @@
 ---
 ### Guidelines for Software Acceptance
 
-#### A
+#### Acceptance Criteria
+- Functionality
+- Performance
+- Quality
+- Safety
+- Privacy and Security
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjM2OTU3Niw2NzU4MTI5NSwxNDA4OT
+eyJoaXN0b3J5IjpbLTQ5MTA4NTQ0Myw2NzU4MTI5NSwxNDA4OT
 Q4MjE4XX0=
 -->
