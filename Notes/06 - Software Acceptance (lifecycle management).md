@@ -41,8 +41,10 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 
 ### Software Acceptance Considerations
 ![](https://lh3.googleusercontent.com/aty-udi1Qnisxl0mj8jQsrCYli0prEc6PPl_Jq6-MAF8cdIBu8P6oJpK8LQhwPlsEEVEMMU61f5bxA)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY2ODkxMzksNjc5MzYwMjk3LDE0Nz
-YzMDU3NzcsLTc0NzA1MzYzNCwtNzMyNDcyNjE4LC0xNzYyMTYw
-MTk5LDIwNzM0MjkzNDMsNjc1ODEyOTUsMTQwODk0ODIxOF19
+eyJoaXN0b3J5IjpbOTM1NDk4MzQ1LDY3OTM2MDI5NywxNDc2Mz
+A1Nzc3LC03NDcwNTM2MzQsLTczMjQ3MjYxOCwtMTc2MjE2MDE5
+OSwyMDczNDI5MzQzLDY3NTgxMjk1LDE0MDg5NDgyMThdfQ==
 -->
