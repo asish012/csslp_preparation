@@ -32,9 +32,9 @@
 - Privacy and Security
 
 **SD3**  
-Security in Design, Default, and Deployment
+Defense in Depth implies Security in Design, Default, and Deployment.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2Nz
-U4MTI5NSwxNDA4OTQ4MjE4XX0=
+eyJoaXN0b3J5IjpbLTczMjQ3MjYxOCwtMTc2MjE2MDE5OSwyMD
+czNDI5MzQzLDY3NTgxMjk1LDE0MDg5NDgyMThdfQ==
 -->
