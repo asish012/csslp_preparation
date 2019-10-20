@@ -39,8 +39,9 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 
 **Acceptance**: The final checkpoint to discover missed and unforeseen security vulnerabilities and to validate the presence of security controls.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC03Mz
-I0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5
-NSwxNDA4OTQ4MjE4XX0=
+eyJoaXN0b3J5IjpbLTg3MDczNzU2OSwxNDc2MzA1Nzc3LC03ND
+cwNTM2MzQsLTczMjQ3MjYxOCwtMTc2MjE2MDE5OSwyMDczNDI5
+MzQzLDY3NTgxMjk1LDE0MDg5NDgyMThdfQ==
 -->
