@@ -53,11 +53,13 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 
 
 **What needs to considered when buying software: See Supply Chain Security chapter**  
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OT
-M1OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0
-LC03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2Nz
-U4MTI5NSwxNDA4OTQ4MjE4XX0=
+eyJoaXN0b3J5IjpbLTU3NTA1MTMyMiw1NjY5NDAwMTIsMTI2MD
+E1ODUxMiwxMzg5MzU5MTMzLDY3OTM2MDI5NywxNDc2MzA1Nzc3
+LC03NDcwNTM2MzQsLTczMjQ3MjYxOCwtMTc2MjE2MDE5OSwyMD
+czNDI5MzQzLDY3NTgxMjk1LDE0MDg5NDgyMThdfQ==
 -->
