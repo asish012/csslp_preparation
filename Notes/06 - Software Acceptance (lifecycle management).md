@@ -40,7 +40,7 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 **Acceptance**: The final checkpoint to discover missed and unforeseen security vulnerabilities and to validate the presence of security controls.
 
 ### Software Acceptance Considerations
-- What needs to considered when building software in-house:
+**What needs to considered when building software in-house**:  
 ![](https://lh3.googleusercontent.com/aty-udi1Qnisxl0mj8jQsrCYli0prEc6PPl_Jq6-MAF8cdIBu8P6oJpK8LQhwPlsEEVEMMU61f5bxA)
 
 **Completion Criteria**  
@@ -51,11 +51,13 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 - Completion of security testing after application testing. (deliverable: **Security test report**)
 - Completion of documentation before the deployment. (deliverable: **Documentation**)
 
-- What needs to considered when buying software: See Supply Chain Security chapter
+
+**What needs to considered when buying software: See Supply Chain Security chapter**  
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDE1ODUxMiwxMzg5MzU5MTMzLDY3OT
-M2MDI5NywxNDc2MzA1Nzc3LC03NDcwNTM2MzQsLTczMjQ3MjYx
-OCwtMTc2MjE2MDE5OSwyMDczNDI5MzQzLDY3NTgxMjk1LDE0MD
-g5NDgyMThdfQ==
+eyJoaXN0b3J5IjpbNTY2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OT
+M1OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0
+LC03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2Nz
+U4MTI5NSwxNDA4OTQ4MjE4XX0=
 -->
