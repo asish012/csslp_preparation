@@ -44,18 +44,18 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 ![](https://lh3.googleusercontent.com/aty-udi1Qnisxl0mj8jQsrCYli0prEc6PPl_Jq6-MAF8cdIBu8P6oJpK8LQhwPlsEEVEMMU61f5bxA)
 
 **Completion Criteria**  
-- Generate the requirements traceability matrix (RTM) that includes security requirements besides functional requirements. (deliverable: RTM)
-- Generate the threat model. (deliverable: Threat Model)
-- Review and sign-off on the security architecture. (deliverable: Security architecture design)
-- Review of code for security vulnerabilities. (deliverable: Code review report)
-- Completion of security testing after application testing. (deliverable: Security test report)
-- Completion of documentation before the deployment. (deliverable: RTM)
+- Generate the requirements traceability matrix (RTM) that includes security requirements besides functional requirements. (deliverable: **RTM**)
+- Generate the threat model. (deliverable: **Threat Model**)
+- Review and sign-off on the security architecture. (deliverable: **Security architecture design**)
+- Review of code for security vulnerabilities. (deliverable: **Code review report**)
+- Completion of security testing after application testing. (deliverable: **Security test report**)
+- Completion of documentation before the deployment. (deliverable: **Documentation**)
 
 - What needs to considered when buying software: See Supply Chain Security chapter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzMwOTExLDEzODkzNTkxMzMsNjc5Mz
-YwMjk3LDE0NzYzMDU3NzcsLTc0NzA1MzYzNCwtNzMyNDcyNjE4
-LC0xNzYyMTYwMTk5LDIwNzM0MjkzNDMsNjc1ODEyOTUsMTQwOD
-k0ODIxOF19
+eyJoaXN0b3J5IjpbMTI2MDE1ODUxMiwxMzg5MzU5MTMzLDY3OT
+M2MDI5NywxNDc2MzA1Nzc3LC03NDcwNTM2MzQsLTczMjQ3MjYx
+OCwtMTc2MjE2MDE5OSwyMDczNDI5MzQzLDY3NTgxMjk1LDE0MD
+g5NDgyMThdfQ==
 -->
