@@ -14,13 +14,11 @@
 		- Common Criteria
 	- Independent Testing
 		- Third Party
-
 ---
 
 ### Key concepts:
 -   Know the difference between certification and accreditation (C&A) and understand how V&V can be used for C&A.
 - Impact of the software to the existing system/process.
-
 ---
 ### Guidelines for Software Acceptance
 
@@ -63,9 +61,9 @@ Is a subset of configuration management.
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIwOTczOTIsLTExOTQ4MjA5MzAsNT
-Y2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1OTEzMyw2NzkzNjAy
-OTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC03MzI0NzI2MTgsLT
-E3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5NSwxNDA4OTQ4
-MjE4XX0=
+eyJoaXN0b3J5IjpbLTIwNDc0Mjg4LC0xMTk0ODIwOTMwLDU2Nj
+k0MDAxMiwxMjYwMTU4NTEyLDEzODkzNTkxMzMsNjc5MzYwMjk3
+LDE0NzYzMDU3NzcsLTc0NzA1MzYzNCwtNzMyNDcyNjE4LC0xNz
+YyMTYwMTk5LDIwNzM0MjkzNDMsNjc1ODEyOTUsMTQwODk0ODIx
+OF19
 -->
