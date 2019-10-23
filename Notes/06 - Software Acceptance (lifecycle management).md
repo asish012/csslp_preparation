@@ -57,13 +57,15 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 - Completion of documentation before the deployment. 
   (deliverable: **Documentation**)
 
+**Change Management**  
+Is a subset of configuration management.
 
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzY4ODMxOCwtMTE5NDgyMDkzMCw1Nj
-Y5NDAwMTIsMTI2MDE1ODUxMiwxMzg5MzU5MTMzLDY3OTM2MDI5
-NywxNDc2MzA1Nzc3LC03NDcwNTM2MzQsLTczMjQ3MjYxOCwtMT
-c2MjE2MDE5OSwyMDczNDI5MzQzLDY3NTgxMjk1LDE0MDg5NDgy
-MThdfQ==
+eyJoaXN0b3J5IjpbLTEwMzIwOTczOTIsLTExOTQ4MjA5MzAsNT
+Y2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1OTEzMyw2NzkzNjAy
+OTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC03MzI0NzI2MTgsLT
+E3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5NSwxNDA4OTQ4
+MjE4XX0=
 -->
