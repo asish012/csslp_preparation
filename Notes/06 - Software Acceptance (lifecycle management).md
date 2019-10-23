@@ -57,12 +57,12 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 
 **Change Management**  
 Is a subset of configuration management.
-Change in any part of a software can potentially introduce new security vulnerabilities, thereby increase risk. Therefore 
+Change in any part of a software can potentially introduce new security vulnerabilities, thereby increase risk. Therefore, Newer versions of software need to be approved, tracked and validated to ensure that the current state and level of security has not been reduced.
 
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjM5NTMyMywtMTg5NjM5NDMxNiwtMT
+eyJoaXN0b3J5IjpbMTgwNzkzMzE4NywtMTg5NjM5NDMxNiwtMT
 E5NDgyMDkzMCw1NjY5NDAwMTIsMTI2MDE1ODUxMiwxMzg5MzU5
 MTMzLDY3OTM2MDI5NywxNDc2MzA1Nzc3LC03NDcwNTM2MzQsLT
 czMjQ3MjYxOCwtMTc2MjE2MDE5OSwyMDczNDI5MzQzLDY3NTgx
