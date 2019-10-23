@@ -62,7 +62,8 @@ Change in any part of a software can potentially introduce new security vulnerab
 All changes need to be formally requested by the software development organization which is usually done through the Program Management Office (PMO). It must then be evaluated for approval or rejection by members of the Configuration/Change Board (CCB).
 
 -- **Approval to Deploy or Release**  
-
+Without approvals, no change should be allowed to the production environment.
+ 
 -- **Risk Acceptance and Exception Policy**
 
 -- **Documentation**  
@@ -70,9 +71,9 @@ All changes need to be formally requested by the software development organizati
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc0NDMyMjQsLTE4OTYzOTQzMTYsLT
-ExOTQ4MjA5MzAsNTY2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1
-OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC
-03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4
-MTI5NSwxNDA4OTQ4MjE4XX0=
+eyJoaXN0b3J5IjpbLTE1MTgzMDcxNywtMTkzNzQ0MzIyNCwtMT
+g5NjM5NDMxNiwtMTE5NDgyMDkzMCw1NjY5NDAwMTIsMTI2MDE1
+ODUxMiwxMzg5MzU5MTMzLDY3OTM2MDI5NywxNDc2MzA1Nzc3LC
+03NDcwNTM2MzQsLTczMjQ3MjYxOCwtMTc2MjE2MDE5OSwyMDcz
+NDI5MzQzLDY3NTgxMjk1LDE0MDg5NDgyMThdfQ==
 -->
