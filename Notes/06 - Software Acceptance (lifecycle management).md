@@ -35,7 +35,6 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 
 **EULA** End User Licensing Agreements
 **DMCA** Digital Millennium Copyright Act
-
 **Acceptance**: The final checkpoint to discover missed and unforeseen security vulnerabilities and to validate the presence of security controls.
 
 ### Software Acceptance Considerations
@@ -62,9 +61,9 @@ Is a subset of configuration management.
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjMzMTIyLC0xMTk0ODIwOTMwLDU2Nj
-k0MDAxMiwxMjYwMTU4NTEyLDEzODkzNTkxMzMsNjc5MzYwMjk3
-LDE0NzYzMDU3NzcsLTc0NzA1MzYzNCwtNzMyNDcyNjE4LC0xNz
-YyMTYwMTk5LDIwNzM0MjkzNDMsNjc1ODEyOTUsMTQwODk0ODIx
-OF19
+eyJoaXN0b3J5IjpbLTE4OTYzOTQzMTYsLTExOTQ4MjA5MzAsNT
+Y2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1OTEzMyw2NzkzNjAy
+OTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC03MzI0NzI2MTgsLT
+E3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5NSwxNDA4OTQ4
+MjE4XX0=
 -->
