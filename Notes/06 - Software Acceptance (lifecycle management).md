@@ -59,12 +59,14 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 Is a subset of configuration management.
 Change in any part of a software can potentially introduce new security vulnerabilities, thereby increase risk. Therefore, Newer versions of software need to be approved, tracked and validated to ensure that the current state and level of security has not been reduced.
 
+All changes need to be formally requested by the software development organization which is usually done through the Program Management Office (PMO). It must then be evaluated for approval or rejection by members of the Configuration/Change Board (CCB).
+
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzkzMzE4NywtMTg5NjM5NDMxNiwtMT
-E5NDgyMDkzMCw1NjY5NDAwMTIsMTI2MDE1ODUxMiwxMzg5MzU5
-MTMzLDY3OTM2MDI5NywxNDc2MzA1Nzc3LC03NDcwNTM2MzQsLT
-czMjQ3MjYxOCwtMTc2MjE2MDE5OSwyMDczNDI5MzQzLDY3NTgx
-Mjk1LDE0MDg5NDgyMThdfQ==
+eyJoaXN0b3J5IjpbLTE3MTg3MjY3MDcsLTE4OTYzOTQzMTYsLT
+ExOTQ4MjA5MzAsNTY2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1
+OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC
+03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4
+MTI5NSwxNDA4OTQ4MjE4XX0=
 -->
