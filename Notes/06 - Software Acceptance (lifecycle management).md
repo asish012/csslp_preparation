@@ -57,13 +57,14 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 
 **Change Management**  
 Is a subset of configuration management.
+Change in any part of a 
 
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYzOTQzMTYsLTExOTQ4MjA5MzAsNT
-Y2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1OTEzMyw2NzkzNjAy
-OTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC03MzI0NzI2MTgsLT
-E3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4MTI5NSwxNDA4OTQ4
-MjE4XX0=
+eyJoaXN0b3J5IjpbLTExMDY4NDY1MjAsLTE4OTYzOTQzMTYsLT
+ExOTQ4MjA5MzAsNTY2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1
+OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC
+03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4
+MTI5NSwxNDA4OTQ4MjE4XX0=
 -->
