@@ -55,16 +55,19 @@ Defense in Depth implies Security in Design, Default, and Deployment.
 - Completion of documentation before the deployment. 
   (deliverable: **Documentation**)
 
-**Change Management**  
++ **Change Management**  
 Is a subset of configuration management.
 Change in any part of a software can potentially introduce new security vulnerabilities, thereby increase risk. Therefore, Newer versions of software need to be approved, tracked and validated to ensure that the current state and level of security has not been reduced.
 
 All changes need to be formally requested by the software development organization which is usually done through the Program Management Office (PMO). It must then be evaluated for approval or rejection by members of the Configuration/Change Board (CCB).
 
+**Approval to Deploy or Release**  
+
+
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg3MjY3MDcsLTE4OTYzOTQzMTYsLT
+eyJoaXN0b3J5IjpbLTEyNzI1MjM2NTcsLTE4OTYzOTQzMTYsLT
 ExOTQ4MjA5MzAsNTY2OTQwMDEyLDEyNjAxNTg1MTIsMTM4OTM1
 OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3NywtNzQ3MDUzNjM0LC
 03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3MzQyOTM0Myw2NzU4
