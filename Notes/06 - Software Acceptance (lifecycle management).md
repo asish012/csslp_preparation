@@ -64,7 +64,7 @@ All changes need to be formally requested by the software development organizati
 -- **Approval to Deploy or Release**  
 Without approvals, no change should be allowed to the production environment. And before any new installation of software, a risk analysis needs to be conducted and the residual risk determined.
 The authorizing official (AO) is responsible for change approvals.
- 
+
 -- **Risk Acceptance and Exception Policy**
 
 -- **Documentation**  
@@ -72,9 +72,10 @@ The authorizing official (AO) is responsible for change approvals.
 **What needs to considered when buying software: See Supply Chain Security chapter**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI3NDU2NDIsLTE5Mzc0NDMyMjQsLT
-E4OTYzOTQzMTYsLTExOTQ4MjA5MzAsNTY2OTQwMDEyLDEyNjAx
-NTg1MTIsMTM4OTM1OTEzMyw2NzkzNjAyOTcsMTQ3NjMwNTc3Ny
-wtNzQ3MDUzNjM0LC03MzI0NzI2MTgsLTE3NjIxNjAxOTksMjA3
-MzQyOTM0Myw2NzU4MTI5NSwxNDA4OTQ4MjE4XX0=
+eyJoaXN0b3J5IjpbMTA5MDIwNzE0OCwtMTMwMjc0NTY0MiwtMT
+kzNzQ0MzIyNCwtMTg5NjM5NDMxNiwtMTE5NDgyMDkzMCw1NjY5
+NDAwMTIsMTI2MDE1ODUxMiwxMzg5MzU5MTMzLDY3OTM2MDI5Ny
+wxNDc2MzA1Nzc3LC03NDcwNTM2MzQsLTczMjQ3MjYxOCwtMTc2
+MjE2MDE5OSwyMDczNDI5MzQzLDY3NTgxMjk1LDE0MDg5NDgyMT
+hdfQ==
 -->
