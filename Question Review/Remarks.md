@@ -7,9 +7,8 @@
   Detection risk includes two types of risks. Sampling risk, Non-sampling risk.
   + Sampling risk: When an auditor falsely accepts or erroneously rejects an audit sample.
   + Non-sampling risk: When an auditor fails to detect a condition because of non applying the appropriate procedure or using procedures inconsistent with the audit objectives (detection faults).
-- Inherent risk:  
 - Secondary risk:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Njc1ODM5MywxNTg4NDU4Mzc4LC0zND
-k4MTg0MzcsMzkwOTgxNjE1XX0=
+eyJoaXN0b3J5IjpbMjA5ODg3NzU2NCwtODg2NzU4MzkzLDE1OD
+g0NTgzNzgsLTM0OTgxODQzNywzOTA5ODE2MTVdfQ==
 -->
