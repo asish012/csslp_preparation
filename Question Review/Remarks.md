@@ -1,6 +1,7 @@
 ### Different kinds of risks
 - Residual risk:  
-- 
+  residual risk = inherent risk X control risk  
+  
 - Detection risk:  
   Detection risks are the risks that an auditor will not be able to find during audit.  
   Detection risk includes two types of risks. Sampling risk, Non-sampling risk.
@@ -9,6 +10,6 @@
 - Inherent risk:  
 - Secondary risk:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mjc1NTc4MSwxNTg4NDU4Mzc4LC0zND
+eyJoaXN0b3J5IjpbLTg4Njc1ODM5MywxNTg4NDU4Mzc4LC0zND
 k4MTg0MzcsMzkwOTgxNjE1XX0=
 -->
