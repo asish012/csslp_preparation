@@ -1,7 +1,7 @@
 ### Different kinds of risks
 - **Residual risk**:  
-  residual risk = inherent risk X control risk  
-  Residual risk is the risk that remains after the implementation of mitigating security controls
+  (residual risk) = (inherent risk) x (control risk)  
+  Residual risk is the risk that remains after the implementation of mitigating security controls.
 - **Inherent risk**:  
   Risks before considering controls. Risks that are inherent in the nature of the business and economy.
 - **Control risk**:
@@ -13,7 +13,7 @@
   + Non-sampling risk: When an auditor fails to detect a condition because of non applying the appropriate procedure or using procedures inconsistent with the audit objectives (detection faults).
 - **Secondary risk**:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzMwMDMxNzUsLTIwNjQxNDc4NDYsNz
-I0ODc0MjEsMTMyMDI4MjgxMywxNDM3NTU5NTE0LC04ODY3NTgz
-OTMsMTU4ODQ1ODM3OCwtMzQ5ODE4NDM3LDM5MDk4MTYxNV19
+eyJoaXN0b3J5IjpbNzc0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyND
+g3NDIxLDEzMjAyODI4MTMsMTQzNzU1OTUxNCwtODg2NzU4Mzkz
+LDE1ODg0NTgzNzgsLTM0OTgxODQzNywzOTA5ODE2MTVdfQ==
 -->
