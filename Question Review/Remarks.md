@@ -94,7 +94,8 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - Take-Grant Protection Model
   Uses a directed graph to specify the rights
 - Biba Integrity Model
-- Bella-La
+- Bella-LaPadula Model
+
 
 tax 60
 insurance 30
@@ -104,11 +105,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTExMTIyNiwtMjkwNzEyNjQzLC00MT
-M4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0
-NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMT
-Y1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEz
-Njg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5LD
-c3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQyMSwxMzIwMjgy
-ODEzXX0=
+eyJoaXN0b3J5IjpbLTE1OTc5MzYxMTYsLTI5MDcxMjY0MywtND
+EzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMz
+NDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLD
+E2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMjIx
+MzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3OS
+w3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMDI4
+MjgxM119
 -->
