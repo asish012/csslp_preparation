@@ -12,8 +12,10 @@
   + Sampling risk: When an auditor falsely accepts or erroneously rejects an audit sample.
   + Non-sampling risk: When an auditor fails to detect a condition because of non applying the appropriate procedure or using procedures inconsistent with the audit objectives (detection faults).
 - **Secondary risk**:  
+  The secondary risk is an outcome of dealing with the original risk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyND
-g3NDIxLDEzMjAyODI4MTMsMTQzNzU1OTUxNCwtODg2NzU4Mzkz
-LDE1ODg0NTgzNzgsLTM0OTgxODQzNywzOTA5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbLTExNTcwNTMzNzksNzc0NDA2NzIyLC0yMD
+Y0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMTQzNzU1OTUx
+NCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgxODQzNywzOT
+A5ODE2MTVdfQ==
 -->
