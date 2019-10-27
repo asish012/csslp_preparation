@@ -56,7 +56,8 @@ The identification and reduction of the Total Risk using controls so that the Re
 - **Chief Information Officer**:  CIO's are responsible for the information technology and computer systems that support enterprise goals. The CIO reports to the chief executive officer (CEO), chief operations officer (COO), or chief financial officer (CFO).
 - **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
 - **Information system auditor**: Information system auditor inspects whether the security policies, standards, guidelines, and procedures are efficiently performed in accordance with the company's stated security objectives. He is responsible for reporting the senior management about the value of security controls by performing regular and independent audits.
-- Information system security professional: An informational systems security professional is an individual who designs, implements, manages, and reviews the security policies, standards, guidelines, and procedures of the organization. He is responsible to implement and maintain security by the senior-level management.
+- **Information system security professional**: An informational systems security professional designs, implements, manages, and reviews the security policies, standards, guidelines, and procedures of the organization. He is responsible to implement and maintain security by the senior-level management.
+- **Senior management**: A senior management assigns overall responsibilities to other individuals.
 
 ### MAC levels
 Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 8500.2
@@ -122,11 +123,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY1NzQ5NzQsMTE5MTI3MjQzNCw2MD
-Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
-MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
-Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
-NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
-g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
-NDc4NDZdfQ==
+eyJoaXN0b3J5IjpbNDI4MDY3MDMwLDExOTEyNzI0MzQsNjA2NT
+g4ODU5LC0yOTA3MTI2NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2
+LDEyNTQ0MDQ4OCwyMTIyNjUzMzQ2LC0xOTYxODA2NzczLC00ND
+IxNDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUw
+MDcsMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nz
+c3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2NzIyLC0yMDY0MTQ3
+ODQ2XX0=
 -->
