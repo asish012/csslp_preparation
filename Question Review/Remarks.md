@@ -39,16 +39,16 @@ Key participants
 -- **Single Loss Expectancy (SLE)**  
 SLE = Asset value * Exposure Factor
 
-**Annual Rate of Occurrence (ARO)**:  
+-- **Annual Rate of Occurrence (ARO)**:  
 ARO is an expression of the number of incidents from a particular threat that can be expected in a year. Looking at historical incident data within your industry is a good start for determining what the ARO should be.
-
-**Annual Loss Expectancy (ALE) = SLE * ARO**
+-- **Annual Loss Expectancy (ALE)**  
+ALE = SLE * ARO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTMwMTk2MiwzODMyMTcyODgsODc3Nz
-E0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0
-Niw3MjQ4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Nj
-c1ODM5MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1
-XX0=
+eyJoaXN0b3J5IjpbLTE1ODgxNzIyOTIsMzgzMjE3Mjg4LDg3Nz
+cxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQxNDc4
+NDYsNzI0ODc0MjEsMTMyMDI4MjgxMywxNDM3NTU5NTE0LC04OD
+Y3NTgzOTMsMTU4ODQ1ODM3OCwtMzQ5ODE4NDM3LDM5MDk4MTYx
+NV19
 -->
