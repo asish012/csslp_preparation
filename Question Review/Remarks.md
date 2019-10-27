@@ -43,11 +43,13 @@ ARO is an expression of the number of incidents from a particular threat that ca
 -- **Annual Loss Expectancy (ALE)**  
 ALE = SLE * ARO
 
+The identification and reduction of the Total Risk using controls so that the Residual Risk is within the acceptable range or threshold, wherein business operations are not disrupted, is the primary goal of risk management.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjEzNjg0NiwzODMyMTcyODgsODc3Nz
-E0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0
-Niw3MjQ4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Nj
-c1ODM5MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1
-XX0=
+eyJoaXN0b3J5IjpbMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4Mz
+IxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2NzIy
+LC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMTQzNz
+U1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgxODQz
+NywzOTA5ODE2MTVdfQ==
 -->
