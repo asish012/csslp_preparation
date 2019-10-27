@@ -51,14 +51,12 @@ The identification and reduction of the Total Risk using controls so that the Re
 - **Dumpster diving**:
 
 ### Roles & Responsibilities
-- **Data owner**: is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information. Microsoft Word - CSSLP-Final.html
-
-data owner determines the sensitivity or classification levels of data.
+- **Data owner**: is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset of information. Data owner determines the sensitivity or classification levels of data.
 - **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities). 
 - **Chief Information Officer**:  CIO's are responsible for the information technology and computer systems that support enterprise goals. The CIO reports to the chief executive officer (CEO), chief operations officer (COO), or chief financial officer (CFO).
 - **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
 - **Information system auditor**: Information system auditor inspects whether the security policies, standards, guidelines, and procedures are efficiently performed in accordance with the company's stated security objectives. He is responsible for reporting the senior management about the value of security controls by performing regular and independent audits.
-- 
+- Information system security professional: An informational systems security professional is an individual who designs, implements, manages, and reviews the security policies, standards, guidelines, and procedures of the organization. He is responsible to implement and maintain security by the senior-level management.
 
 ### MAC levels
 Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 8500.2
@@ -124,11 +122,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTQwMTMyNSwxMTkxMjcyNDM0LDYwNj
-U4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgy
-NiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtND
-QyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1
-MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsOD
-c3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0
-Nzg0Nl19
+eyJoaXN0b3J5IjpbLTExNzY1NzQ5NzQsMTE5MTI3MjQzNCw2MD
+Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
+MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
+Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
+NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
+g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
+NDc4NDZdfQ==
 -->
