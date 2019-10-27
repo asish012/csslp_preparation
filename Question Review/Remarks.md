@@ -90,6 +90,11 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - Involves matrices and models to determine impact
 - Historical loss data is used to determine impact
 
+### Models
+- Take-Grant Protection Model
+  Uses a directed graph to specify the rights
+- Biba Integrity Model
+- Bella-La
 
 tax 60
 insurance 30
@@ -99,11 +104,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MD
-E0Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3
-NzMsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLT
-c4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3
-Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLT
-IwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMDI4MjgxMywxNDM3NTU5
-NTE0XX0=
+eyJoaXN0b3J5IjpbMTM5MTExMTIyNiwtMjkwNzEyNjQzLC00MT
+M4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0
+NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMT
+Y1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEz
+Njg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5LD
+c3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQyMSwxMzIwMjgy
+ODEzXX0=
 -->
