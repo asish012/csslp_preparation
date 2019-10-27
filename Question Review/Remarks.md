@@ -13,9 +13,13 @@
   + Non-sampling risk: When an auditor fails to detect a condition because of non applying the appropriate procedure or using procedures inconsistent with the audit objectives (detection faults).
 - **Secondary risk**:  
   The secondary risk is an outcome of dealing with the original risk.
+
+*Higher inherent risk doesn't mean that there will be vulnerabilities. Because there might be controls in place already against them.*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcwNTMzNzksNzc0NDA2NzIyLC0yMD
-Y0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMTQzNzU1OTUx
-NCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgxODQzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzA1MzcwODgsLTExNTcwNTMzNzksNz
+c0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4
+MTMsMTQzNzU1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLT
+M0OTgxODQzNywzOTA5ODE2MTVdfQ==
 -->
