@@ -106,13 +106,8 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 audits. 
 - **NSA/CSS**: 
   The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
-the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also
-responsible for protecting U.S. government communications and information systems from similar
-agencies elsewhere, which involves cryptography. NSA is a key component of the U.S.
-Intelligence Community, which is headed by the Director of National Intelligence. The Central
-Security Service is a co-located agency created to coordinate intelligence activities and cooperation
-between NSA and U.S. military cryptanalysis agencies. NSA's work is limited to
-communications intelligence. It does not perform field or human intelligence activities.
+the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also responsible for protecting U.S. government communications and information systems from similar agencies elsewhere, which involves cryptography. 
+The Central Security Service (CSS) is created to coordinate intelligence activities and cooperation between NSA and U.S. military cryptanalysis agencies.
 Answer: B is incorrect. The National Institute of Standards and Technology (NIST), known between 1901 and
 1988 as the National Bureau of Standards (NBS), is a measurement standards laboratory which is
 a non-regulatory agency of the United States Department of Commerce. The institute's official
@@ -130,7 +125,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDI3MjY5MSw2MDY1ODg4NTksLTI5MD
+eyJoaXN0b3J5IjpbMTU2NDIwNTIwNyw2MDY1ODg4NTksLTI5MD
 cxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4
 LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
 I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
