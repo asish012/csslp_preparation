@@ -51,13 +51,14 @@ The identification and reduction of the Total Risk using controls so that the Re
 - **Dumpster diving**:
 
 ### Roles & Responsibilities
-- **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
+- **Data owner**: is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information. Microsoft Word - CSSLP-Final.html
+
+data owner determines the sensitivity or classification levels of data.
 - **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities). 
 - **Chief Information Officer**:  CIO's are responsible for the information technology and computer systems that support enterprise goals. The CIO reports to the chief executive officer (CEO), chief operations officer (COO), or chief financial officer (CFO).
 - **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
-
-- **Information system auditor**: 
-  is an individual who inspects whether the security policies, standards, guidelines, and procedures are efficiently performed in accordance with the company's stated security objectives. He is responsible for reporting the senior management about the value of security controls by performing regular and independent audits.
+- **Information system auditor**: Information system auditor inspects whether the security policies, standards, guidelines, and procedures are efficiently performed in accordance with the company's stated security objectives. He is responsible for reporting the senior management about the value of security controls by performing regular and independent audits.
+- 
 
 ### MAC levels
 Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 8500.2
@@ -123,7 +124,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTg2NDY2NSwxMTkxMjcyNDM0LDYwNj
+eyJoaXN0b3J5IjpbMTc0OTQwMTMyNSwxMTkxMjcyNDM0LDYwNj
 U4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgy
 NiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtND
 QyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1
