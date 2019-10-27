@@ -108,12 +108,8 @@ audits.
   The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
 the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also responsible for protecting U.S. government communications and information systems from similar agencies elsewhere, which involves cryptography. 
 The Central Security Service (CSS) is created to coordinate intelligence activities and cooperation between NSA and U.S. military cryptanalysis agencies.
-Answer: B is incorrect. The National Institute of Standards and Technology (NIST), known between 1901 and
-1988 as the National Bureau of Standards (NBS), is a measurement standards laboratory which is
-a non-regulatory agency of the United States Department of Commerce. The institute's official
-mission is to promote U.S. innovation and industrial competitiveness by advancing measurement
-science, standards, and technology in ways that enhance economic security and improve quality
-of life.
+- **NIST**: 
+  The National Institute of Standards and Technology (NIST) is a measurement standards laboratory which is a non-regulatory agency of the United States Department of Commerce. The institute's official mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve quality of life.
 
 
 
@@ -125,7 +121,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDIwNTIwNyw2MDY1ODg4NTksLTI5MD
+eyJoaXN0b3J5IjpbMTgwMzIxNDY5Niw2MDY1ODg4NTksLTI5MD
 cxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4
 LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
 I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
