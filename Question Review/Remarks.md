@@ -54,9 +54,11 @@ The identification and reduction of the Total Risk using controls so that the Re
 -- **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
 -- **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities). 
 -- **Chief Information Officer**:  CIO's are responsible for the information technology and computer systems that support enterprise goals. The CIO reports to the chief executive officer (CEO), chief operations officer (COO), or chief financial officer (CFO).
--- **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি ).
+-- **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTEyNDEyMywxOTI1MjgwMzMwLDE2NT
+eyJoaXN0b3J5IjpbLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NT
 U4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4
 NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3OSw3Nz
 Q0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMDI4Mjgx
