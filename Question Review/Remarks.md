@@ -79,13 +79,22 @@ Activities performed in the planning phase of the software assurance acquisition
 - The goal is to determine  proportion of effect and theoretical response.
 
 Inputs to Qualitative risk analysis:
-- Organizational process assets Project Scope Statement Risk Management Plan Risk Register
+- Organizational process assets 
+- Project Scope Statement 
+- Risk Management Plan 
+- Risk Register
+
+### Quantitative risk analysis
+Microsoft Word - CSSLP-Final.html
+
+Quantitative risk analysis is in-depth and often requires a  
+schedule and budget for the analysis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkzODEwNDksMjEyMjY1MzM0NiwtMT
-k2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3
-ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0Ni
-wzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQw
-NjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQyMSwxMzIwMjgyODEzLD
-E0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNTg4NDU4Mzc4LC0zNDk4
-MTg0MzddfQ==
+eyJoaXN0b3J5IjpbNTI2ODI0NTYxLDIxMjI2NTMzNDYsLTE5Nj
+E4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3
+NDMsLTc4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMz
+gzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3
+MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMDI4MjgxMywxND
+M3NTU5NTE0LC04ODY3NTgzOTMsMTU4ODQ1ODM3OCwtMzQ5ODE4
+NDM3XX0=
 -->
