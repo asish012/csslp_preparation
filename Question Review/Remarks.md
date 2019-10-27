@@ -103,9 +103,10 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 
 ### Something like model
 - **SSE-CMM**:  
-  - Provide Ongoing Skills and Knowledge
-  - Manage Project Risk
-  - Improve Organization's System Engineering Process
+  + Provide Ongoing Skills and Knowledge
+  + Manage Project Risk
+  + Improve Organization's System Engineering Process
+
 
 ### U.S. Organizations
 - **The Office of Management and Budget (OMB)**:  
@@ -129,11 +130,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAzMDA5NzQsMTE5MTI3MjQzNCw2MD
-Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
-MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
-Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
-NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
-g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
-NDc4NDZdfQ==
+eyJoaXN0b3J5IjpbLTcyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNj
+U4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgy
+NiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtND
+QyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1
+MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsOD
+c3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0
+Nzg0Nl19
 -->
