@@ -16,9 +16,10 @@
 
 *Higher inherent risk doesn't mean that there will be vulnerabilities. Because there might be controls in place already against them.*
 
+*Auditor has no control over Inherent risk or Control risk, only client has control over them*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA1MzcwODgsLTExNTcwNTMzNzksNz
+eyJoaXN0b3J5IjpbLTEzMDExNDE1MjksLTExNTcwNTMzNzksNz
 c0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4
 MTMsMTQzNzU1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLT
 M0OTgxODQzNywzOTA5ODE2MTVdfQ==
