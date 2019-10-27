@@ -36,19 +36,19 @@ Key participants
 - Information Assurance Manager (IAM)
 
 ### Risk calculation
--- **Single Loss Expectancy (SLE)**  
+- **Single Loss Expectancy (SLE)**  
 SLE = Asset value * Exposure Factor
--- **Annual Rate of Occurrence (ARO)**:  
+- **Annual Rate of Occurrence (ARO)**:  
 ARO is an expression of the number of incidents from a particular threat that can be expected in a year. Looking at historical incident data within your industry is a good start for determining what the ARO should be.
--- **Annual Loss Expectancy (ALE)**  
+- **Annual Loss Expectancy (ALE)**  
 ALE = SLE * ARO
 
 The identification and reduction of the Total Risk using controls so that the Residual Risk is within the acceptable range or threshold, wherein business operations are not disrupted, is the primary goal of risk management.
 
 ### Penetration techniques
--- Demon dialing: automatically tests every phone line in an exchange and tries to locate modems that are attached to the network.
--- Sniffing: a protocol analyzer is used to capture data packets that are later decoded to collect information such as passwords or infrastructure configurations.
--- Dumpster diving
+- **Demon dialing**: automatically tests every phone line in an exchange and tries to locate modems that are attached to the network.
+- **Sniffing**: a protocol analyzer is used to capture data packets that are later decoded to collect information such as passwords or infrastructure configurations.
+- **Dumpster diving**:
 
 ### Roles
 - **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
@@ -63,7 +63,7 @@ The identification and reduction of the Total Risk using controls so that the Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njg3OTkwMiwtNDQyMTQ3MDcwLDE5Mj
+eyJoaXN0b3J5IjpbMjA2MTU5NzA0MCwtNDQyMTQ3MDcwLDE5Mj
 UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
 MDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMT
 U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
