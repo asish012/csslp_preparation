@@ -98,6 +98,28 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - **Bella-LaPadula Model**:
   Deals only with the confidentiality of classified material. It does not address integrity or availability.
 
+### U>
+The DCAA has the aim to monitor contractor costs and perform contractor
+audits. 
+Answer: C is incorrect. The National Security Agency/Central Security Service (NSA/CSS)
+is a crypto-logic intelligence agency of the United States government. It is administered as part of
+the United States Department of Defense. NSA is responsible for the collection and analysis of
+foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also
+responsible for protecting U.S. government communications and information systems from similar
+agencies elsewhere, which involves cryptography. NSA is a key component of the U.S.
+Intelligence Community, which is headed by the Director of National Intelligence. The Central
+Security Service is a co-located agency created to coordinate intelligence activities and cooperation
+between NSA and U.S. military cryptanalysis agencies. NSA's work is limited to
+communications intelligence. It does not perform field or human intelligence activities.
+Answer: B is incorrect. The National Institute of Standards and Technology (NIST), known between 1901 and
+1988 as the National Bureau of Standards (NBS), is a measurement standards laboratory which is
+a non-regulatory agency of the United States Department of Commerce. The institute's official
+mission is to promote U.S. innovation and industrial competitiveness by advancing measurement
+science, standards, and technology in ways that enhance economic security and improve quality
+of life.
+
+
+
 tax 60
 insurance 30
 electricity + heating 100
@@ -106,11 +128,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NTg4ODU5LC0yOTA3MTI2NDMsLTQxMz
-g5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMTIyNjUzMzQ2
-LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4MDMzMCwxNj
-U1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMDIyMTM2
-ODQ2LDM4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNz
-c0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTc4MjQ2NjU4LDYwNjU4ODg1OSwtMjkwNz
+EyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgs
+MjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5Mj
+UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
+MDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMT
+U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
+MV19
 -->
