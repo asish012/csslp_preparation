@@ -73,13 +73,14 @@ Activities performed in the planning phase of the software assurance acquisition
 
 ### Qualitative risk analysis
 - a fast and low-cost approach to  analyze the risk impact and its effect
-- 
+- uses the likelihood and impact of the identified risks
+- establishes a basis for a focused quantitative analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDExNzAzMiwyMTIyNjUzMzQ2LC0xOT
-YxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4
-NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LD
-M4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2
-NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMT
-QzNzU1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgx
-ODQzN119
+eyJoaXN0b3J5IjpbLTE2NDc5NjIyNjQsMjEyMjY1MzM0NiwtMT
+k2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3
+ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0Ni
+wzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQw
+NjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQyMSwxMzIwMjgyODEzLD
+E0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNTg4NDU4Mzc4LC0zNDk4
+MTg0MzddfQ==
 -->
