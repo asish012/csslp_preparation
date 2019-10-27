@@ -90,18 +90,19 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - Involves matrices and models to determine impact
 - Historical loss data is used to determine impact
 
+
 tax 60
 insurance 30
 electricity + heissung 100
 nebencost 400
-interest
-capital
+interest 250
+capital 500
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MDA4NjQwLDEyNTQ0MDQ4OCwyMTIyNj
-UzMzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4MDMz
-MCwxNjU1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMD
-IyMTM2ODQ2LDM4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMz
-NzksNzc0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMj
-AyODI4MTMsMTQzNzU1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgz
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMj
+Y1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAz
+MzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMj
+AyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUz
+Mzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQyMSwxMz
+IwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNTg4NDU4
+Mzc4XX0=
 -->
