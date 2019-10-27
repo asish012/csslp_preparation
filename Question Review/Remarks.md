@@ -101,13 +101,12 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 ### U.S. Organizations
 - **The Office of Management and Budget (OMB)**:  
   The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
-
-The DCAA has the aim to monitor contractor costs and perform contractor
+- **DCAA**:
+  The DCAA has the aim to monitor contractor costs and perform contractor
 audits. 
-Answer: C is incorrect. The National Security Agency/Central Security Service (NSA/CSS)
-is a crypto-logic intelligence agency of the United States government. It is administered as part of
-the United States Department of Defense. NSA is responsible for the collection and analysis of
-foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also
+- **NSA/CSS**: 
+  The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
+the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also
 responsible for protecting U.S. government communications and information systems from similar
 agencies elsewhere, which involves cryptography. NSA is a key component of the U.S.
 Intelligence Community, which is headed by the Director of National Intelligence. The Central
@@ -131,11 +130,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0ODYyMDM2LDYwNjU4ODg1OSwtMjkwNz
-EyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgs
-MjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5Mj
-UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
-MDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMT
-U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
-MV19
+eyJoaXN0b3J5IjpbLTQ4NDI3MjY5MSw2MDY1ODg4NTksLTI5MD
+cxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4
+LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
+I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
+MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMT
+E1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0
+MjFdfQ==
 -->
