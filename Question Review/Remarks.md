@@ -85,12 +85,12 @@ Inputs to Qualitative risk analysis:
 - Risk Register
 
 ### Quantitative risk analysis
-Microsoft Word - CSSLP-Final.html
-
-Quantitative risk analysis is in-depth and often requires a  
-schedule and budget for the analysis.
+Quantitative risk analysis is in-depth and often requires a schedule and budget for the analysis.
+- Objectively determines the impact
+- Involves matrices and models to determine impact
+- Historical loss data is used to determine impact
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2ODI0NTYxLDIxMjI2NTMzNDYsLTE5Nj
+eyJoaXN0b3J5IjpbMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5Nj
 E4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3
 NDMsLTc4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMz
 gzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3
