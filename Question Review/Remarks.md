@@ -45,11 +45,14 @@ ALE = SLE * ARO
 
 The identification and reduction of the Total Risk using controls so that the Residual Risk is within the acceptable range or threshold, wherein business operations are not disrupted, is the primary goal of risk management.
 
-
+### Penetration techniques
+-- Demon dialing
+-- Sniffing
+-- Dumpster diving
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4Mz
-IxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2NzIy
-LC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMTQzNz
-U1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgxODQz
-NywzOTA5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbLTE1NTE4MzkyOCwxNjIxNTY4MzAxLDIwMj
+IxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3
+OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMD
+I4MjgxMywxNDM3NTU5NTE0LC04ODY3NTgzOTMsMTU4ODQ1ODM3
+OCwtMzQ5ODE4NDM3LDM5MDk4MTYxNV19
 -->
