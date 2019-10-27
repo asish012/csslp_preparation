@@ -49,10 +49,16 @@ The identification and reduction of the Total Risk using controls so that the Re
 -- Demon dialing: automatically tests every phone line in an exchange and tries to locate modems that are attached to the network.
 -- Sniffing: a protocol analyzer is used to capture data packets that are later decoded to collect information such as passwords or infrastructure configurations.
 -- Dumpster diving
+
+### Roles
+-- **Data owner**:  
+-- **Chief Risk Officer (CRO)**:  
+-- **Chief Information Officer**:  
+-- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMj
-IxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3
-OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMD
-I4MjgxMywxNDM3NTU5NTE0LC04ODY3NTgzOTMsMTU4ODQ1ODM3
-OCwtMzQ5ODE4NDM3LDM5MDk4MTYxNV19
+eyJoaXN0b3J5IjpbLTg5OTIwNDMyMCwtNzgyOTk1MDA3LDE2Mj
+E1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4
+LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3Mj
+Q4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5
+MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1XX0=
 -->
