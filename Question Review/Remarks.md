@@ -36,14 +36,14 @@ Key participants
 - Information Assurance Manager (IAM)
 
 ### Risk calculation
-Single Loss Expectancy (SLE) = Asset value * Exposure Factor
+**Single Loss Expectancy (SLE) = Asset value * Exposure Factor**
 
-Annual Rate of Occurrence (ARO):
+**Annual Rate of Occurrence (ARO)**:  
 ARO is an expression of the number of incidents from a particular threat that can be expected in a year. Looking at historical incident data within your industry is a good start for determining what the ARO should be.
 
-
+**Annual Loss Expectancy (ALE)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzcxNzQwOCwzODMyMTcyODgsODc3Nz
+eyJoaXN0b3J5IjpbLTE3NjYyMjEyNywzODMyMTcyODgsODc3Nz
 E0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0
 Niw3MjQ4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Nj
 c1ODM5MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1
