@@ -58,13 +58,13 @@ The identification and reduction of the Total Risk using controls so that the Re
 
 ### MAC levels
 Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 8500.2
-- **MAC I**: It states that the systems have high availability and high integrity. 
-- **MAC II**: It states that the systems have high integrity and medium availability. 
+- **MAC I**: It states that the systems have high integrity and high availability.
+- **MAC II**: It states that the systems have high integrity and medium availability.
 - **MAC III**: It states that the systems have basic integrity and availability.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY0MTI2NDMsLTQ0MjE0NzA3MCwxOT
+eyJoaXN0b3J5IjpbLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
 I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
 MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMT
 E1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0
