@@ -62,9 +62,19 @@ Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 
 - **MAC II**: It states that the systems have high integrity and medium availability.
 - **MAC III**: It states that the systems have basic integrity and availability.
 
-##
+### Software Assurance Acquisition process
+Microsoft Word - CSSLP-Final.html
+
+activities performed in the planning phase of the
+- Determine software product or service requirements. 
+- Identify associated risks. Develop software requirements. 
+- Create acquisition strategy. 
+- Develop evaluation criteria and evaluation plan. 
+- Define development and use of SwA due diligence questionnaires.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg3Nzk4NjEsLTE5NjE4MDY3NzMsLT
+eyJoaXN0b3J5IjpbLTEyNDk3NDczMDcsLTE5NjE4MDY3NzMsLT
 Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
 NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
 g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
