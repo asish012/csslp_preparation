@@ -99,15 +99,15 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
   Deals only with the confidentiality of classified material. It does not address integrity or availability.
 
 ### U.S. Organizations
-- **The Office of Management and Budget (OMB)**:
+- **The Office of Management and Budget (OMB)**:  
   The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
-- **Defense Contract Audit Agency (DCAA)**:
+- **Defense Contract Audit Agency (DCAA)**:  
   DCAA provides audit and financial advisory services to Department of Defense (DoD) and other federal entities.
-- **NSA/CSS**:
+- **NSA/CSS**:  
   The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
 the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also responsible for protecting U.S. government communications and information systems from similar agencies elsewhere, which involves cryptography. 
 The Central Security Service (CSS) is created to coordinate intelligence activities and cooperation between NSA and U.S. military cryptanalysis agencies.
-- **NIST**:
+- **NIST**:  
   The National Institute of Standards and Technology (NIST) is a measurement standards laboratory which is a non-regulatory agency of the United States Department of Commerce. The institute's official mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve quality of life.
 
 
@@ -120,11 +120,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NzQ2MzU0LDYwNjU4ODg1OSwtMjkwNz
-EyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgs
-MjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5Mj
-UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
-MDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMT
-U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
-MV19
+eyJoaXN0b3J5IjpbMTE5MTI3MjQzNCw2MDY1ODg4NTksLTI5MD
+cxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4
+LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
+I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
+MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMT
+E1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0
+MjFdfQ==
 -->
