@@ -51,17 +51,22 @@ The identification and reduction of the Total Risk using controls so that the Re
 -- Dumpster diving
 
 ### Roles
--- **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
--- **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities). 
--- **Chief Information Officer**:  CIO's are responsible for the information technology and computer systems that support enterprise goals. The CIO reports to the chief executive officer (CEO), chief operations officer (COO), or chief financial officer (CFO).
--- **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
+- **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
+- **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities). 
+- **Chief Information Officer**:  CIO's are responsible for the information technology and computer systems that support enterprise goals. The CIO reports to the chief executive officer (CEO), chief operations officer (COO), or chief financial officer (CFO).
+- **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
+
+### MAC levels
+- **MAC I**: It states that the systems have high availability and high integrity. 
+- **MAC II**: It states that the systems have high integrity and medium availability. 
+- **MAC III**: It states that the systems have basic integrity and availability.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NT
-U4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4
-NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3OSw3Nz
-Q0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMDI4Mjgx
-MywxNDM3NTU5NTE0LC04ODY3NTgzOTMsMTU4ODQ1ODM3OCwtMz
-Q5ODE4NDM3LDM5MDk4MTYxNV19
+eyJoaXN0b3J5IjpbMTM3Njg3OTkwMiwtNDQyMTQ3MDcwLDE5Mj
+UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
+MDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMT
+U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
+MSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNT
+g4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1XX0=
 -->
