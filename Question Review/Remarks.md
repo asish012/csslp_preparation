@@ -22,10 +22,12 @@
 ### NIACAP
 Four minimum participants (roles) are required to perform a NIACAP security assessment.
 - IS program manager
-- 
+- Designated Approving Authority (DAA)
+- Certification agent (certifier)
+- User representative
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc4ODY0NzAsODc3NzE0MDc4LC0xMT
-U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
-MSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNT
-g4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1XX0=
+eyJoaXN0b3J5IjpbLTYyNjI1OTc4Myw4Nzc3MTQwNzgsLTExNT
+cwNTMzNzksNzc0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIx
+LDEzMjAyODI4MTMsMTQzNzU1OTUxNCwtODg2NzU4MzkzLDE1OD
+g0NTgzNzgsLTM0OTgxODQzNywzOTA5ODE2MTVdfQ==
 -->
