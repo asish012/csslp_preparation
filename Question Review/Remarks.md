@@ -102,8 +102,7 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - **The Office of Management and Budget (OMB)**:
   The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
 - **Defense Contract Audit Agency (DCAA)**:
-  The DCAA has the aim to monitor contractor costs and perform contractor
-audits.
+  DCAA provides audit and financial advisory services to Department of Defense (DoD) and other federal entities.
 - **NSA/CSS**:
   The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
 the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also responsible for protecting U.S. government communications and information systems from similar agencies elsewhere, which involves cryptography. 
@@ -121,7 +120,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzA3ODgyMSw2MDY1ODg4NTksLTI5MD
+eyJoaXN0b3J5IjpbMTMwODYwMDY0Niw2MDY1ODg4NTksLTI5MD
 cxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4
 LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
 I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
