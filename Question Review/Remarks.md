@@ -51,12 +51,12 @@ The identification and reduction of the Total Risk using controls so that the Re
 -- Dumpster diving
 
 ### Roles
--- **Data owner**:  
+-- **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
 -- **Chief Risk Officer (CRO)**:  
 -- **Chief Information Officer**:  
--- 
+-- **Designated Approving Authority**:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTIwNDMyMCwtNzgyOTk1MDA3LDE2Mj
+eyJoaXN0b3J5IjpbMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2Mj
 E1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4
 LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3Mj
 Q4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5
