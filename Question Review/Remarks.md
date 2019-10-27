@@ -72,11 +72,16 @@ Activities performed in the planning phase of the software assurance acquisition
 - Define development and use of SwA due diligence questionnaires.
 
 ### Qualitative risk analysis
-- a fast and low-cost approach to  analyze the risk impact and its effect
-- uses the likelihood and impact of the identified risks
-- establishes a basis for a focused quantitative analysis
+- A fast and low-cost approach to  analyze the risk impact and its effect
+- Uses the likelihood and impact of the identified risks
+- Establishes a basis for a focused quantitative analysis
+- Conducted at  any point in a project life cycle
+- The goal is to determine  proportion of effect and theoretical response.
+
+Inputs to Qualitative risk analysis:
+- Organizational process assets Project Scope Statement Risk Management Plan Risk Register
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc5NjIyNjQsMjEyMjY1MzM0NiwtMT
+eyJoaXN0b3J5IjpbLTEzMzkzODEwNDksMjEyMjY1MzM0NiwtMT
 k2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3
 ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0Ni
 wzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQw
