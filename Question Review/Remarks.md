@@ -57,16 +57,17 @@ The identification and reduction of the Total Risk using controls so that the Re
 - **Designated Approving Authority**:  also known as the accreditor (স্বীকৃতি দানকারী).
 
 ### MAC levels
+Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 8500.2.
 - **MAC I**: It states that the systems have high availability and high integrity. 
 - **MAC II**: It states that the systems have high integrity and medium availability. 
 - **MAC III**: It states that the systems have basic integrity and availability.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTU5NzA0MCwtNDQyMTQ3MDcwLDE5Mj
-UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
-MDEsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMT
-U3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQy
-MSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNT
-g4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1XX0=
+eyJoaXN0b3J5IjpbNTA4NjU0NTMxLC00NDIxNDcwNzAsMTkyNT
+I4MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMw
+MSwyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNT
+cwNTMzNzksNzc0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIx
+LDEzMjAyODI4MTMsMTQzNzU1OTUxNCwtODg2NzU4MzkzLDE1OD
+g0NTgzNzgsLTM0OTgxODQzNywzOTA5ODE2MTVdfQ==
 -->
