@@ -62,12 +62,13 @@ Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 
 - **MAC II**: It states that the systems have high integrity and medium availability.
 - **MAC III**: It states that the systems have basic integrity and availability.
 
-
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOT
-I1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIxNTY4
-MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMT
-E1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0
-MjEsMTMyMDI4MjgxMywxNDM3NTU5NTE0LC04ODY3NTgzOTMsMT
-U4ODQ1ODM3OCwtMzQ5ODE4NDM3LDM5MDk4MTYxNV19
+eyJoaXN0b3J5IjpbLTE3Njg3Nzk4NjEsLTE5NjE4MDY3NzMsLT
+Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
+NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
+g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
+NDc4NDYsNzI0ODc0MjEsMTMyMDI4MjgxMywxNDM3NTU5NTE0LC
+04ODY3NTgzOTMsMTU4ODQ1ODM3OCwtMzQ5ODE4NDM3LDM5MDk4
+MTYxNV19
 -->
