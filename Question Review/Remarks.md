@@ -52,14 +52,14 @@ The identification and reduction of the Total Risk using controls so that the Re
 
 ### Roles
 -- **Data owner**:  is usually a member of management, in charge of a specific business unit, and is ultimately responsible for the protection and use of a specific subset  of information.
--- **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities).
+-- **Chief Risk Officer (CRO)**:  CRO's are accountable for enabling the business to balance risk and reward (opportunities). 
 -- **Chief Information Officer**:  
 -- **Designated Approving Authority**:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03OD
-I5OTUwMDcsMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4MzIxNzI4
-OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2NzIyLC0yMD
-Y0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMTQzNzU1OTUx
-NCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgxODQzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbLTEwOTA0MzY5ODIsMTkyNTI4MDMzMCwxNj
+U1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMDIyMTM2
+ODQ2LDM4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNz
+c0NDA2NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4
+MTMsMTQzNzU1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLT
+M0OTgxODQzNywzOTA5ODE2MTVdfQ==
 -->
