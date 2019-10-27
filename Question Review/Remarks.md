@@ -71,13 +71,15 @@ Activities performed in the planning phase of the software assurance acquisition
 - Develop evaluation criteria and evaluation plan. 
 - Define development and use of SwA due diligence questionnaires.
 
-
+### Qualitative risk analysis
+- a fast and low-cost approach to  analyze the risk impact and its effect
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtND
-QyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1
-MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsOD
-c3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0
-Nzg0Niw3MjQ4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLT
-g4Njc1ODM5MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgx
-NjE1XX0=
+eyJoaXN0b3J5IjpbLTYwNDExNzAzMiwyMTIyNjUzMzQ2LC0xOT
+YxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4
+NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LD
+M4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2
+NzIyLC0yMDY0MTQ3ODQ2LDcyNDg3NDIxLDEzMjAyODI4MTMsMT
+QzNzU1OTUxNCwtODg2NzU4MzkzLDE1ODg0NTgzNzgsLTM0OTgx
+ODQzN119
 -->
