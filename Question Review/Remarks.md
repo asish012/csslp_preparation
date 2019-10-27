@@ -102,7 +102,10 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
   Deals only with the confidentiality of classified material. It does not address integrity or availability.
 
 ### Something like model
-- SSE-CMM: 
+- **SSE-CMM**:  
+  - Provide Ongoing Skills and Knowledge
+  - Manage Project Risk
+  - Improve Organization's System Engineering Process
 
 ### U.S. Organizations
 - **The Office of Management and Budget (OMB)**:  
@@ -126,7 +129,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE5Nzg3MjMsMTE5MTI3MjQzNCw2MD
+eyJoaXN0b3J5IjpbLTE5ODAzMDA5NzQsMTE5MTI3MjQzNCw2MD
 Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
 MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
 Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
