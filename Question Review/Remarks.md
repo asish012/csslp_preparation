@@ -63,22 +63,21 @@ Mission Assurance Categories (MAC) and confidentiality levels prescribed by DoD 
 - **MAC III**: It states that the systems have basic integrity and availability.
 
 ### Software Assurance Acquisition process
-Microsoft Word - CSSLP-Final.html
-
-activities performed in the planning phase of the
+Activities performed in the planning phase of the software assurance acquisition process:  
 - Determine software product or service requirements. 
-- Identify associated risks. Develop software requirements. 
+- Identify associated risks. 
+- Develop software requirements. 
 - Create acquisition strategy. 
 - Develop evaluation criteria and evaluation plan. 
 - Define development and use of SwA due diligence questionnaires.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk3NDczMDcsLTE5NjE4MDY3NzMsLT
-Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
-NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
-g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
-NDc4NDYsNzI0ODc0MjEsMTMyMDI4MjgxMywxNDM3NTU5NTE0LC
-04ODY3NTgzOTMsMTU4ODQ1ODM3OCwtMzQ5ODE4NDM3LDM5MDk4
-MTYxNV19
+eyJoaXN0b3J5IjpbMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtND
+QyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1
+MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsOD
+c3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0
+Nzg0Niw3MjQ4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLT
+g4Njc1ODM5MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgx
+NjE1XX0=
 -->
