@@ -35,11 +35,12 @@ Four minimum participants (roles) are required to perform a NIACAP security asse
 Key participants
 - Information Assurance Manager (IAM)
 
-### 
+### Risk calculation
+Single Loss Expectancy (SLE) = Asset value * Exposure Factor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDc0NTE2OSwzODMyMTcyODgsODc3Nz
-E0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0Nzg0
-Niw3MjQ4NzQyMSwxMzIwMjgyODEzLDE0Mzc1NTk1MTQsLTg4Nj
-c1ODM5MywxNTg4NDU4Mzc4LC0zNDk4MTg0MzcsMzkwOTgxNjE1
-XX0=
+eyJoaXN0b3J5IjpbNjU5NjUwMDAxLDM4MzIxNzI4OCw4Nzc3MT
+QwNzgsLTExNTcwNTMzNzksNzc0NDA2NzIyLC0yMDY0MTQ3ODQ2
+LDcyNDg3NDIxLDEzMjAyODI4MTMsMTQzNzU1OTUxNCwtODg2Nz
+U4MzkzLDE1ODg0NTgzNzgsLTM0OTgxODQzNywzOTA5ODE2MTVd
+fQ==
 -->
