@@ -47,12 +47,12 @@ The identification and reduction of the Total Risk using controls so that the Re
 
 ### Penetration techniques
 -- Demon dialing
--- Sniffing
+-- Sniffing: a protocol analyzer is used to capture data packets that are later decoded to collect information such as passwords or infrastructure configurations.
 -- Dumpster diving
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE4MzkyOCwxNjIxNTY4MzAxLDIwMj
-IxMzY4NDYsMzgzMjE3Mjg4LDg3NzcxNDA3OCwtMTE1NzA1MzM3
-OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYsNzI0ODc0MjEsMTMyMD
-I4MjgxMywxNDM3NTU5NTE0LC04ODY3NTgzOTMsMTU4ODQ1ODM3
-OCwtMzQ5ODE4NDM3LDM5MDk4MTYxNV19
+eyJoaXN0b3J5IjpbNDQ4OTUwMzU0LDE2MjE1NjgzMDEsMjAyMj
+EzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5
+LDc3NDQwNjcyMiwtMjA2NDE0Nzg0Niw3MjQ4NzQyMSwxMzIwMj
+gyODEzLDE0Mzc1NTk1MTQsLTg4Njc1ODM5MywxNTg4NDU4Mzc4
+LC0zNDk4MTg0MzcsMzkwOTgxNjE1XX0=
 -->
