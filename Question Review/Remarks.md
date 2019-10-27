@@ -98,7 +98,8 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - **Bella-LaPadula Model**:
   Deals only with the confidentiality of classified material. It does not address integrity or availability.
 
-### U>
+### U.S. Organizations
+- **The Office of Management and Budget (OMB)**: 
 The DCAA has the aim to monitor contractor costs and perform contractor
 audits. 
 Answer: C is incorrect. The National Security Agency/Central Security Service (NSA/CSS)
@@ -128,7 +129,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjQ2NjU4LDYwNjU4ODg1OSwtMjkwNz
+eyJoaXN0b3J5IjpbNzI5MDc1MjkyLDYwNjU4ODg1OSwtMjkwNz
 EyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgs
 MjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5Mj
 UyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1Njgz
