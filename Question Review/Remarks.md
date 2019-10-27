@@ -101,6 +101,9 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
 - **Bella-LaPadula Model**:  
   Deals only with the confidentiality of classified material. It does not address integrity or availability.
 
+### Something like model
+- SSE-CMM: 
+
 ### U.S. Organizations
 - **The Office of Management and Budget (OMB)**:  
   The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
@@ -123,11 +126,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MDY3MDMwLDExOTEyNzI0MzQsNjA2NT
-g4ODU5LC0yOTA3MTI2NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2
-LDEyNTQ0MDQ4OCwyMTIyNjUzMzQ2LC0xOTYxODA2NzczLC00ND
-IxNDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUw
-MDcsMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nz
-c3MTQwNzgsLTExNTcwNTMzNzksNzc0NDA2NzIyLC0yMDY0MTQ3
-ODQ2XX0=
+eyJoaXN0b3J5IjpbLTE3MzE5Nzg3MjMsMTE5MTI3MjQzNCw2MD
+Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
+MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
+Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
+NTAwNywxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LD
+g3NzcxNDA3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQx
+NDc4NDZdfQ==
 -->
