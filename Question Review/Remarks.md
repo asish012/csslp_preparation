@@ -22,17 +22,15 @@
 ### NIACAP
 Four minimum participants (roles) are required to perform a NIACAP security assessment.
 - **IS program manager**: is the primary authorization advocate, who is responsible for the Information Systems (IS) throughout the life cycle of the system development.
-- **Designated Approving Authority (DAA)**: Microsoft Word - CSSLP-Final.html
-
-is the official with the authority to formally assume responsibility for operating a system at an acceptable level of risk.
-- **Certification agent (certifier)**:
-- **User representative**:
+- **Designated Approving Authority (DAA)**: is the official with the authority to formally assume responsibility for operating a system at an acceptable level of risk.
+- **Certification agent (certifier)**: provides the technical expertise to conduct the certification throughout the system life cycle.
+- **User representative**: focuses on system availability, access, integrity, functionality, performance, and confidentiality in a Certification and Accreditation (C&A) process.
 
 ### DIACAP
 Key participants
 - Information Assurance Manager (IAM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzE0NjcsMzgzMjE3Mjg4LDg3NzcxND
+eyJoaXN0b3J5IjpbMzg5MzIyNzYsMzgzMjE3Mjg4LDg3NzcxND
 A3OCwtMTE1NzA1MzM3OSw3NzQ0MDY3MjIsLTIwNjQxNDc4NDYs
 NzI0ODc0MjEsMTMyMDI4MjgxMywxNDM3NTU5NTE0LC04ODY3NT
 gzOTMsMTU4ODQ1ODM3OCwtMzQ5ODE4NDM3LDM5MDk4MTYxNV19
