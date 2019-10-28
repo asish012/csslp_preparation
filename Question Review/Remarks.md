@@ -170,6 +170,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**  
 - **SP 800-27: Engineering Principles for Information Technology Security**  
 - **SP 800-30: Risk Management Guide for IT**  
+  control categories, cost-benefit analysis, residual risk evaluation, and the mitigation options and steps that need to be taken
   Risk mitigation strategy:  
 ![enter image description here](https://lh3.googleusercontent.com/dsQsItqjBmzPk57b-lcjVHlVqqdyWtsdY_kudNMra7mw5JAumVhaLvohBU5Fnccci9WBC-ZcTcLG4g)
 
@@ -189,11 +190,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMT
-c0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYy
-OTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLT
-E1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4
-ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNi
-wxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQy
-MTQ3MDcwXX0=
+eyJoaXN0b3J5IjpbNjQxODgyNjAyLC0xNTMxMzYxMjc3LC0yMT
+Y3MjExOTcsLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDky
+MywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMj
+Y2MTYwNDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3
+MjQzNCw2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC
+02MDE0Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4
+MDY3NzNdfQ==
 -->
