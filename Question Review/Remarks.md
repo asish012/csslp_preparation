@@ -179,8 +179,9 @@ NIST also includes computer security-related Federal Information Processing Stan
   Risk mitigation strategy:  
 ![enter image description here](https://lh3.googleusercontent.com/dsQsItqjBmzPk57b-lcjVHlVqqdyWtsdY_kudNMra7mw5JAumVhaLvohBU5Fnccci9WBC-ZcTcLG4g)
 
-- **SP 800-61 – Computer Security Incident Handling Guide**  
+- **SP 800-61: Computer Security Incident Handling Guide**  
 - **SP 800-64: Security Considerations in the Information Systems Development Life Cycle**  
+  Provides guidance for building security into the IT systems (or software) development life cycle (SDLC)
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
 - **Federal Information Processing (FIPS) standards**  
   - FIPS 140: Security Requirement for Cryptographic Modules
@@ -195,11 +196,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM0NjUxOTYsLTE1MzEzNjEyNzcsLT
-IxNjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMw
-OTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC
-0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkx
-MjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MT
-IsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2
-MTgwNjc3M119
+eyJoaXN0b3J5IjpbLTE4NTcwNDk3ODksLTE0MzM0NjUxOTYsLT
+E1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4
+MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OS
+wtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcy
+NzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEyNj
+QzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEy
+MjY1MzM0Nl19
 -->
