@@ -122,7 +122,7 @@ The Central Security Service (CSS) is created to coordinate intelligence activit
 ### Security Standards
 High level security policies are supported by more detailed security standards.
 
-
+![Types of Security Standards](https://picasaweb.google.com/116167355901694401362/6752856909002346673#6752856914115840626)
 
 tax 60
 insurance 30
@@ -132,11 +132,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY0MjIyODUsLTE1MTQyOTM3NDQsLT
-cyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEy
-NjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMj
-EyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUy
-ODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMD
-EsMjAyMjEzNjg0NiwzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3
-MDUzMzc5XX0=
+eyJoaXN0b3J5IjpbLTQ2MDAxMjQzMiwtMTUxNDI5Mzc0NCwtNz
+I3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2
+NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMT
+IyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4
+MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMS
+wyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcw
+NTMzNzldfQ==
 -->
