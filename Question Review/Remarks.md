@@ -155,7 +155,16 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-12: An Introduction to Computer Security**
 - **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**
-- 
+- **SP 800-27: Engineering Principles for Information Technology Security**
+- SP 800-30: Risk Management Guide for IT
+- SP 800-61 – Computer Security Incident Handling Guide
+- SP 800-64: Security Considerations in the Information Systems Development Life Cycle
+- SP 800-100: Information Security Handbook: A Guide for Managers
+- Federal Information Processing (FIPS) standards
+-   FIPS 140: Security Requirement for Cryptographic Modules
+    
+-   FIPS 186: Digital Signature Standard
+-   FIPS 197: Advanced Encryption Standard
 
 tax 60
 insurance 30
@@ -165,11 +174,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzIwODM4NiwxNTIyMDMwOTIzLDIxMD
-I3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYxNjA0
-MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyNDM0LD
-YwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQy
-ODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3My
-wtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgy
-OTk1MDA3XX0=
+eyJoaXN0b3J5IjpbNTQyMzA3ODUsMTUyMjAzMDkyMywyMTAyNz
+g2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2
+LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MD
+Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
+MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
+Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
+NTAwN119
 -->
