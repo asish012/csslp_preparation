@@ -124,7 +124,10 @@ High level security policies are supported by more detailed security standards.
 
 ![](https://lh3.googleusercontent.com/tA0V5EcZnp-EHLazgiLlTVI-eoopjWc8MTMgaWTyPjfJNgTaJxtfTQi10szA8r-hVgH52xK0bHN_KQ)
 
-
+Security standards can be broadly categorized into two categories:
+- Internal
+- External standards
+External standards can be further classified based on the issuer and recognition. Depending on who has issued the standard, external security standards can be classified into industry standards or government standard.
 - industry standards
 - government standard
 
@@ -137,11 +140,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTM0MTg4MCwtMjY2MTYwNDA2LC0xNT
-E0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4
-NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMT
-I1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0
-NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNy
-wxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3Nzcx
-NDA3OF19
+eyJoaXN0b3J5IjpbLTE4MjA1NTMzMDQsLTI2NjE2MDQwNiwtMT
+UxNDI5Mzc0NCwtNzI3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4
+ODU5LC0yOTA3MTI2NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LD
+EyNTQ0MDQ4OCwyMTIyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIx
+NDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUwMD
+csMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nzc3
+MTQwNzhdfQ==
 -->
