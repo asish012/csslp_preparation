@@ -122,7 +122,9 @@ The Central Security Service (CSS) is created to coordinate intelligence activit
 ### Security Standards
 High level security policies are supported by more detailed security standards.
 
-![Types of Security Standards](https://picasaweb.google.com/116167355901694401362/6752856909002346673#6752856914115840626)
+![](https://lh3.googleusercontent.com/tA0V5EcZnp-EHLazgiLlTVI-eoopjWc8MTMgaWTyPjfJNgTaJxtfTQi10szA8r-hVgH52xK0bHN_KQ)
+
+
 
 tax 60
 insurance 30
@@ -132,7 +134,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDAxMjQzMiwtMTUxNDI5Mzc0NCwtNz
+eyJoaXN0b3J5IjpbLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNz
 I3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2
 NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMT
 IyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4
