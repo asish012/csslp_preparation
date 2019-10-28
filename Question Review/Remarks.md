@@ -156,11 +156,11 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**
 - **SP 800-27: Engineering Principles for Information Technology Security**
-- SP 800-30: Risk Management Guide for IT
-- SP 800-61 – Computer Security Incident Handling Guide
-- SP 800-64: Security Considerations in the Information Systems Development Life Cycle
-- SP 800-100: Information Security Handbook: A Guide for Managers
-- Federal Information Processing (FIPS) standards
+- **SP 800-30: Risk Management Guide for IT**
+- **SP 800-61 – Computer Security Incident Handling Guide**
+- **SP 800-64: Security Considerations in the Information Systems Development Life Cycle**
+- **SP 800-100: Information Security Handbook: A Guide for Managers**
+- **Federal Information Processing (FIPS) standards**
   - FIPS 140: Security Requirement for Cryptographic Modules
   - FIPS 186: Digital Signature Standard
   - FIPS 197: Advanced Encryption Standard
@@ -173,11 +173,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI3MDE4NDEsMTUyMjAzMDkyMywyMT
-AyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYw
-NDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNC
-w2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0
-Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3Nz
-MsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4
-Mjk5NTAwN119
+eyJoaXN0b3J5IjpbODkyODA2ODcsMTUyMjAzMDkyMywyMTAyNz
+g2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2
+LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MD
+Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
+MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
+Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
+NTAwN119
 -->
