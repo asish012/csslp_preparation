@@ -125,6 +125,9 @@ High level security policies are supported by more detailed security standards.
 ![](https://lh3.googleusercontent.com/tA0V5EcZnp-EHLazgiLlTVI-eoopjWc8MTMgaWTyPjfJNgTaJxtfTQi10szA8r-hVgH52xK0bHN_KQ)
 
 
+- industry standards
+- government standard
+
 
 tax 60
 insurance 30
@@ -134,11 +137,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNz
-I3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2
-NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMT
-IyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4
-MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMS
-wyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nzc3MTQwNzgsLTExNTcw
-NTMzNzldfQ==
+eyJoaXN0b3J5IjpbLTMwNTM0MTg4MCwtMjY2MTYwNDA2LC0xNT
+E0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4
+NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMT
+I1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0
+NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNy
+wxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3Nzcx
+NDA3OF19
 -->
