@@ -153,7 +153,10 @@ NIST also includes computer security-related Federal Information Processing Stan
   + Federal Information Processing Standards (FIPS)
 
 - **SP 800-12: An Introduction to Computer Security**
-CategorSecurity controls are categorized into management controls, operational controls and technology controls.
+  Categories of security controls
+  - management controls
+  - operational controls
+  - technology controls.
 - **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**
 - **SP 800-27: Engineering Principles for Information Technology Security**
@@ -174,11 +177,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjAwNzM2MSw4OTI4MDY4NywxNTIyMD
-MwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4
-LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMT
-kxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0
-MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMT
-k2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3
-ODc0M119
+eyJoaXN0b3J5IjpbLTE2NzMwNzg5OTQsODkyODA2ODcsMTUyMj
+AzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1
+OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMT
+E5MTI3MjQzNCw2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4
+NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLT
+E5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4
+Nzg3NDNdfQ==
 -->
