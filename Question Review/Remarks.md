@@ -141,7 +141,9 @@ NIST programs assist in improving the quality and capabilities of software used 
 
 NIST have the statutory responsibility to set security standards and guidelines for sensitive Federal systems but these standards are selectively adopted and used by the private sector on a voluntary basis as well.
 
-The computer security division Information Technology Laboratory (ITL) periodically publishes bulletins and the Special Publications 500 (SP 500) and 800 (SP 800) series. While the SP 500 series are more generic Information Technology related publications, the SP 800 series was established in order to organize information technology security publications separately.
+The computer security division Information Technology Laboratory (ITL) periodically publishes bulletins and the Special Publications 500 (SP 500) and 800 (SP 800) series. While the SP 500 series are more generic Information Technology related publications, the SP 800 series organize information technology security publications separately.
+
+NIST also includes computer security-related Federal Information Processing Standards (FIPS).
 
 tax 60
 insurance 30
@@ -151,11 +153,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2OTU1ODkyLDE1MjIwMzA5MjMsMjEwMj
-c4NjI5NSwtMjc3NjgxNTY5LC00MTMxOTE4NTgsLTI2NjE2MDQw
-NiwtMTUxNDI5Mzc0NCwtNzI3MjAxMDkwLDExOTEyNzI0MzQsNj
-A2NTg4ODU5LC0yOTA3MTI2NDMsLTQxMzg5ODQxMiwtNjAxNDI4
-ODI2LDEyNTQ0MDQ4OCwyMTIyNjUzMzQ2LC0xOTYxODA2NzczLC
-00NDIxNDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03ODI5
-OTUwMDddfQ==
+eyJoaXN0b3J5IjpbLTUwNjE2OTY3NywxNTIyMDMwOTIzLDIxMD
+I3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYxNjA0
+MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyNDM0LD
+YwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQy
+ODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3My
+wtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgy
+OTk1MDA3XX0=
 -->
