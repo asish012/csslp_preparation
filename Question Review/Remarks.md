@@ -107,7 +107,6 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
   + Manage Project Risk
   + Improve Organization's System Engineering Process
 
-
 ### U.S. Organizations
 - **The Office of Management and Budget (OMB)**:  
   The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
@@ -130,11 +129,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNj
-U4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgy
-NiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtND
-QyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgyOTk1
-MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMyMTcyODgsOD
-c3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQwNjcyMiwtMjA2NDE0
-Nzg0Nl19
+eyJoaXN0b3J5IjpbLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMT
+kxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0
+MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMT
+k2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3
+ODc0MywtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0Ni
+wzODMyMTcyODgsODc3NzE0MDc4LC0xMTU3MDUzMzc5LDc3NDQw
+NjcyMl19
 -->
