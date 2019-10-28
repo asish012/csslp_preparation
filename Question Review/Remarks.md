@@ -152,6 +152,10 @@ NIST also includes computer security-related Federal Information Processing Stan
 	  - SP 800 : information technology security related
   + Federal Information Processing Standards (FIPS)
 
+- **SP 800-12: An Introduction to Computer Security**
+- **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**
+- **SP 800-18: Guide for developing Security Plans for Federal Systems**
+- 
 
 tax 60
 insurance 30
@@ -161,11 +165,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMzMTAxMDIsMTUyMjAzMDkyMywyMT
-AyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYw
-NDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNC
-w2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0
-Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3Nz
-MsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4
-Mjk5NTAwN119
+eyJoaXN0b3J5IjpbLTMwMzIwODM4NiwxNTIyMDMwOTIzLDIxMD
+I3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYxNjA0
+MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyNDM0LD
+YwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQy
+ODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3My
+wtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0MywtNzgy
+OTk1MDA3XX0=
 -->
