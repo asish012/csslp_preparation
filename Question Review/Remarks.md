@@ -136,6 +136,7 @@ External standards can also be classified based on the extent of recognition:
 - National: National security standards are often more focused and inclusive of local customs. eg. Federal Information Processing Standards (FIPS)
 - International: International standards are usually more comprehensive and generic.
 
+-- **NIST Standards**
 
 
 tax 60
@@ -146,11 +147,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNj
-YxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcy
-NDM0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLT
-YwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgw
-Njc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0My
-wtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMy
-MTcyODhdfQ==
+eyJoaXN0b3J5IjpbMjEwMjc4NjI5NSwtMjc3NjgxNTY5LC00MT
+MxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNzI3MjAx
+MDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2NDMsLT
+QxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMTIyNjUz
+MzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4MDMzMC
+wxNjU1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMDIy
+MTM2ODQ2XX0=
 -->
