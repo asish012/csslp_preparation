@@ -145,14 +145,14 @@ The computer security division Information Technology Laboratory (ITL) periodica
 
 NIST also includes computer security-related Federal Information Processing Standards (FIPS).
 
-**Gist**:  
+**Gist**  
 - National Institute of Standards and Technology (NIST)
   + Special Publications
 	  - SP 500 : generic information technology related
 	  - SP 800 : information technology security related
   + Federal Information Processing Standards (FIPS)
 
-**Details about Special Publications**
+**Details about Special Publications:**  
 - **SP 800-12: An Introduction to Computer Security**  
   Categories of security controls
   - management controls
@@ -178,11 +178,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIxNTg3MjEsLTE3NDcxNDkyNjYsOD
-kyODA2ODcsMTUyMjAzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1
-NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC
-03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4NTksLTI5MDcx
-MjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4LD
-IxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1
-MjgwMzMwXX0=
+eyJoaXN0b3J5IjpbODIwNjE0ODEzLC0xNzQ3MTQ5MjY2LDg5Mj
+gwNjg3LDE1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3NjgxNTY5
+LC00MTMxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNz
+I3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2
+NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMT
+IyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4
+MDMzMF19
 -->
