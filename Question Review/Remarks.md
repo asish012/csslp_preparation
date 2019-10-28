@@ -161,10 +161,9 @@ NIST also includes computer security-related Federal Information Processing Stan
 - SP 800-64: Security Considerations in the Information Systems Development Life Cycle
 - SP 800-100: Information Security Handbook: A Guide for Managers
 - Federal Information Processing (FIPS) standards
--   FIPS 140: Security Requirement for Cryptographic Modules
-    
--   FIPS 186: Digital Signature Standard
--   FIPS 197: Advanced Encryption Standard
+  - FIPS 140: Security Requirement for Cryptographic Modules
+  - FIPS 186: Digital Signature Standard
+  - FIPS 197: Advanced Encryption Standard
 
 tax 60
 insurance 30
@@ -174,11 +173,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMzA3ODUsMTUyMjAzMDkyMywyMTAyNz
-g2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2
-LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MD
-Y1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4
-MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLT
-Q0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5
-NTAwN119
+eyJoaXN0b3J5IjpbLTExODI3MDE4NDEsMTUyMjAzMDkyMywyMT
+AyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYw
+NDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNC
+w2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0
+Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3Nz
+MsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4
+Mjk5NTAwN119
 -->
