@@ -152,7 +152,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 	  - SP 800 : information technology security related
   + Federal Information Processing Standards (FIPS)
 
-- **SP 800-12: An Introduction to Computer Security**
+- **SP 800-12: An Introduction to Computer Security**  
   Categories of security controls
   - management controls
   - operational controls
@@ -177,7 +177,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzMwNzg5OTQsODkyODA2ODcsMTUyMj
+eyJoaXN0b3J5IjpbLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMj
 AzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1
 OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMT
 E5MTI3MjQzNCw2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4
