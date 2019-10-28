@@ -123,6 +123,7 @@ The Central Security Service (CSS) is created to coordinate intelligence activit
 High level security policies are supported by more detailed security standards.
 
 
+
 tax 60
 insurance 30
 electricity + heating 100
@@ -131,7 +132,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU3OTE2NDcsLTE1MTQyOTM3NDQsLT
+eyJoaXN0b3J5IjpbLTE0NDY0MjIyODUsLTE1MTQyOTM3NDQsLT
 cyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEy
 NjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMj
 EyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUy
