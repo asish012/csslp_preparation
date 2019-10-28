@@ -170,11 +170,12 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**  
 - **SP 800-27: Engineering Principles for Information Technology Security**  
 - **SP 800-30: Risk Management Guide for IT**  
-  Risk management process considers following major steps but not limited to :  
+  Risk management process considers following major steps along with others:  
   - control categories
   - cost-benefit analysis
   - residual risk evaluation
-  - mitigation options and steps
+  - mitigation options and steps  
+
   Risk mitigation strategy:  
 ![enter image description here](https://lh3.googleusercontent.com/dsQsItqjBmzPk57b-lcjVHlVqqdyWtsdY_kudNMra7mw5JAumVhaLvohBU5Fnccci9WBC-ZcTcLG4g)
 
@@ -194,11 +195,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjU4MDAzLC0xNTMxMzYxMjc3LC0yMT
-Y3MjExOTcsLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDky
-MywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMj
-Y2MTYwNDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3
-MjQzNCw2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC
-02MDE0Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4
-MDY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0MzM0NjUxOTYsLTE1MzEzNjEyNzcsLT
+IxNjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMw
+OTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC
+0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkx
+MjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MT
+IsLTYwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2
+MTgwNjc3M119
 -->
