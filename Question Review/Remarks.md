@@ -137,6 +137,8 @@ External standards can also be classified based on the extent of recognition:
 - International: International standards are usually more comprehensive and generic.
 
 -- **NIST Standards**
+NIST programs assist in improving the quality and capabilities of software used by business, research institutions and consumers. They help secure electronic data and maintain availability of critical electronic services by identifying vulnerabilities and cost-effective security measures.
+
 
 
 tax 60
@@ -147,11 +149,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjc4NjI5NSwtMjc3NjgxNTY5LC00MT
-MxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNzI3MjAx
-MDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2NDMsLT
-QxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMTIyNjUz
-MzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4MDMzMC
-wxNjU1ODc4NzQzLC03ODI5OTUwMDcsMTYyMTU2ODMwMSwyMDIy
-MTM2ODQ2XX0=
+eyJoaXN0b3J5IjpbMTUyMjAzMDkyMywyMTAyNzg2Mjk1LC0yNz
+c2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNTE0Mjkz
+NzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4NTksLT
+I5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQw
+NDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MC
+wxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIx
+NTY4MzAxXX0=
 -->
