@@ -133,7 +133,7 @@ External standards can be further classified based on the issuer:
 - Government standard
 
 External standards can also be classified based on the extent of recognition:  
-- National: National security standards are often more focused and inclusive of local customs
+- National: National security standards are often more focused and inclusive of local customs. eg. Federal Information Processing Standards (FIPS)
 - International: International standards are usually more comprehensive and generic.
 
 
@@ -146,11 +146,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNT
-E0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4
-NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMT
-I1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0
-NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNy
-wxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3Nzcx
-NDA3OF19
+eyJoaXN0b3J5IjpbLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNj
+YxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcy
+NDM0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLT
+YwMTQyODgyNiwxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgw
+Njc3MywtNDQyMTQ3MDcwLDE5MjUyODAzMzAsMTY1NTg3ODc0My
+wtNzgyOTk1MDA3LDE2MjE1NjgzMDEsMjAyMjEzNjg0NiwzODMy
+MTcyODhdfQ==
 -->
