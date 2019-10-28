@@ -139,7 +139,9 @@ External standards can also be classified based on the extent of recognition:
 -- **NIST Standards**
 NIST programs assist in improving the quality and capabilities of software used by business, research institutions and consumers. They help secure electronic data and maintain availability of critical electronic services by identifying vulnerabilities and cost-effective security measures.
 
+NIST have the statutory responsibility to set security standards and guidelines for sensitive Federal systems but these standards are selectively adopted and used by the private sector on a voluntary basis as well.
 
+The computer security division Information Technology Laboratory (ITL) periodically publishes bulletins and the Special Publications 500 (SP 500) and 800 (SP 800) series. While the SP 500 series are more generic Information Technology related publications, the SP 800 series was established in order to organize information technology security publications separately.
 
 tax 60
 insurance 30
@@ -149,11 +151,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjAzMDkyMywyMTAyNzg2Mjk1LC0yNz
-c2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNTE0Mjkz
-NzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4NTksLT
-I5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQw
-NDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MC
-wxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNywxNjIx
-NTY4MzAxXX0=
+eyJoaXN0b3J5IjpbMjI2OTU1ODkyLDE1MjIwMzA5MjMsMjEwMj
+c4NjI5NSwtMjc3NjgxNTY5LC00MTMxOTE4NTgsLTI2NjE2MDQw
+NiwtMTUxNDI5Mzc0NCwtNzI3MjAxMDkwLDExOTEyNzI0MzQsNj
+A2NTg4ODU5LC0yOTA3MTI2NDMsLTQxMzg5ODQxMiwtNjAxNDI4
+ODI2LDEyNTQ0MDQ4OCwyMTIyNjUzMzQ2LC0xOTYxODA2NzczLC
+00NDIxNDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03ODI5
+OTUwMDddfQ==
 -->
