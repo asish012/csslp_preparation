@@ -153,12 +153,21 @@ NIST also includes computer security-related Federal Information Processing Stan
   + Federal Information Processing Standards (FIPS)
 
 **Details about Special Publications:**  
+
 - **SP 800-12: An Introduction to Computer Security**  
   Categories of security controls
   - management controls
   - operational controls
   - technology controls.
-- **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**
+
+- **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**  
+  IT system's stakeholders: 
+  - including management
+  - internal auditors
+  - users
+  - system developers
+  - security practitioners
+
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**
 - **SP 800-27: Engineering Principles for Information Technology Security**
 - **SP 800-30: Risk Management Guide for IT**
@@ -178,11 +187,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjE0ODEzLC0xNzQ3MTQ5MjY2LDg5Mj
-gwNjg3LDE1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3NjgxNTY5
-LC00MTMxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNz
-I3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2
-NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LDEyNTQ0MDQ4OCwyMT
-IyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIxNDcwNzAsMTkyNTI4
-MDMzMF19
+eyJoaXN0b3J5IjpbLTc5Mzc4Njc4OCwtMTc0NzE0OTI2Niw4OT
+I4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2
+OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLT
+cyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEy
+NjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMj
+EyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUy
+ODAzMzBdfQ==
 -->
