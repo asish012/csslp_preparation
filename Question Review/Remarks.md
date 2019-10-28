@@ -133,9 +133,10 @@ External standards can be further classified based on the issuer:
 - Government standard
 
 External standards can also be classified based on the extent of recognition:  
-- National
-- International
-International standards are usually more comprehensive and generic
+- National: National security standards are often more focused and inclusive of local customs
+- International: International standards are usually more comprehensive and generic.
+
+
 
 tax 60
 insurance 30
@@ -145,11 +146,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQxODgxOTksLTI2NjE2MDQwNiwtMT
-UxNDI5Mzc0NCwtNzI3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4
-ODU5LC0yOTA3MTI2NDMsLTQxMzg5ODQxMiwtNjAxNDI4ODI2LD
-EyNTQ0MDQ4OCwyMTIyNjUzMzQ2LC0xOTYxODA2NzczLC00NDIx
-NDcwNzAsMTkyNTI4MDMzMCwxNjU1ODc4NzQzLC03ODI5OTUwMD
-csMTYyMTU2ODMwMSwyMDIyMTM2ODQ2LDM4MzIxNzI4OCw4Nzc3
-MTQwNzhdfQ==
+eyJoaXN0b3J5IjpbLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNT
+E0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4
+NTksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMT
+I1NDQwNDg4LDIxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0
+NzA3MCwxOTI1MjgwMzMwLDE2NTU4Nzg3NDMsLTc4Mjk5NTAwNy
+wxNjIxNTY4MzAxLDIwMjIxMzY4NDYsMzgzMjE3Mjg4LDg3Nzcx
+NDA3OF19
 -->
