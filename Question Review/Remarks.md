@@ -170,6 +170,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-18: Guide for developing Security Plans for Federal Systems**  
 - **SP 800-27: Engineering Principles for Information Technology Security**  
 - **SP 800-30: Risk Management Guide for IT**  
+ 
 - **SP 800-61 – Computer Security Incident Handling Guide**  
 - **SP 800-64: Security Considerations in the Information Systems Development Life Cycle**  
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
@@ -186,11 +187,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4OT
-I4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2
-OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLT
-cyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEy
-NjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNiwxMjU0NDA0ODgsMj
-EyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQyMTQ3MDcwLDE5MjUy
-ODAzMzBdfQ==
+eyJoaXN0b3J5IjpbLTExMTU0NjUxNjEsLTIxNjcyMTE5NywtMT
+c0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYy
+OTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLT
+E1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4
+ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYwMTQyODgyNi
+wxMjU0NDA0ODgsMjEyMjY1MzM0NiwtMTk2MTgwNjc3MywtNDQy
+MTQ3MDcwXX0=
 -->
