@@ -181,7 +181,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 
 - **SP 800-61: Computer Security Incident Handling Guide**  
 - **SP 800-64: Security Considerations in the Information Systems Development Life Cycle**  
-  Provides guidance for building security into the IT systems (or software) development life cycle (SDLC)
+  Provides guidance for building security into the software development life cycle (SDLC).
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
 - **Federal Information Processing (FIPS) standards**  
   - FIPS 140: Security Requirement for Cryptographic Modules
@@ -196,7 +196,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcwNDk3ODksLTE0MzM0NjUxOTYsLT
+eyJoaXN0b3J5IjpbLTEwODA5Mzg2NDQsLTE0MzM0NjUxOTYsLT
 E1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4
 MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OS
 wtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcy
