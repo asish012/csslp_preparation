@@ -153,7 +153,6 @@ NIST also includes computer security-related Federal Information Processing Stan
   + Federal Information Processing Standards (FIPS)
 
 **Details about Special Publications:**  
-
 - **SP 800-12: An Introduction to Computer Security**  
   Categories of security controls
   - management controls
@@ -162,19 +161,19 @@ NIST also includes computer security-related Federal Information Processing Stan
 
 - **SP 800-14: Generally Accepted Principles and Practices for Security IT Systems**  
   IT system's stakeholders: 
-  - including management
+  - management
   - internal auditors
   - users
   - system developers
   - security practitioners
 
-- **SP 800-18: Guide for developing Security Plans for Federal Systems**
-- **SP 800-27: Engineering Principles for Information Technology Security**
-- **SP 800-30: Risk Management Guide for IT**
-- **SP 800-61 – Computer Security Incident Handling Guide**
-- **SP 800-64: Security Considerations in the Information Systems Development Life Cycle**
-- **SP 800-100: Information Security Handbook: A Guide for Managers**
-- **Federal Information Processing (FIPS) standards**
+- **SP 800-18: Guide for developing Security Plans for Federal Systems**  
+- **SP 800-27: Engineering Principles for Information Technology Security**  
+- **SP 800-30: Risk Management Guide for IT**  
+- **SP 800-61 – Computer Security Incident Handling Guide**  
+- **SP 800-64: Security Considerations in the Information Systems Development Life Cycle**  
+- **SP 800-100: Information Security Handbook: A Guide for Managers**  
+- **Federal Information Processing (FIPS) standards**  
   - FIPS 140: Security Requirement for Cryptographic Modules
   - FIPS 186: Digital Signature Standard
   - FIPS 197: Advanced Encryption Standard
@@ -187,7 +186,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mzc4Njc4OCwtMTc0NzE0OTI2Niw4OT
+eyJoaXN0b3J5IjpbLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4OT
 I4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2
 OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLT
 cyNzIwMTA5MCwxMTkxMjcyNDM0LDYwNjU4ODg1OSwtMjkwNzEy
