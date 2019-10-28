@@ -152,6 +152,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 	  - SP 800 : information technology security related
   + Federal Information Processing Standards (FIPS)
 
+**Details about Special Publications**
 - **SP 800-12: An Introduction to Computer Security**  
   Categories of security controls
   - management controls
@@ -177,11 +178,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMj
-AzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1
-OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMT
-E5MTI3MjQzNCw2MDY1ODg4NTksLTI5MDcxMjY0MywtNDEzODk4
-NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4LDIxMjI2NTMzNDYsLT
-E5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1MjgwMzMwLDE2NTU4
-Nzg3NDNdfQ==
+eyJoaXN0b3J5IjpbLTExMzIxNTg3MjEsLTE3NDcxNDkyNjYsOD
+kyODA2ODcsMTUyMjAzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1
+NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC
+03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4NTksLTI5MDcx
+MjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1NDQwNDg4LD
+IxMjI2NTMzNDYsLTE5NjE4MDY3NzMsLTQ0MjE0NzA3MCwxOTI1
+MjgwMzMwXX0=
 -->
