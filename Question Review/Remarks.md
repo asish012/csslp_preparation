@@ -201,13 +201,15 @@ NIST also includes computer security-related Federal Information Processing Stan
   - FIPS 197: Advanced Encryption Standard (AES)
   - FIPS 201: Personal Identity Verification (PIV) of Federal Employees and Contractors
 
-### **ISO Standards**
+### ISO Standards
 - International Electrotechnical Commission (IEC): Develops electrotechnology standards
 - International Telecommunications Union (ITU): Develops telecommunication standards
+
 ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several International Standards that are directly related to information security.
 
 
-### **PCI Standards**
+
+### PCI Standards
 
 
 
@@ -221,11 +223,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjU0OTY2NywtMTUzNzMxOTk0LDE1Nj
-k1NzgzNzksLTE3MjkyMzM5MTYsMTgxMTY5NTU3MSwxNzYzMDMx
-MjU1LDM3OTY3MjMxNiwtMTA4MDkzODY0NCwtMTQzMzQ2NTE5Ni
-wtMTUzMTM2MTI3NywtMjE2NzIxMTk3LC0xNzQ3MTQ5MjY2LDg5
-MjgwNjg3LDE1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3NjgxNT
-Y5LC00MTMxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwt
-NzI3MjAxMDkwXX0=
+eyJoaXN0b3J5IjpbLTEyMDk2NjE4OTUsLTE1MzczMTk5NCwxNT
+Y5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2MzAz
+MTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0MzM0NjUxOT
+YsLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4
+OTI4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MT
+U2OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQs
+LTcyNzIwMTA5MF19
 -->
