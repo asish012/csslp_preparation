@@ -210,7 +210,8 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   Commonly known as the Common Criteria.
   
   The relationships between the Protection Profile (PP), the Security Target (ST) and the Target of Evaluation (TOE):
-  
+![enter image description here](https://lh3.googleusercontent.com/tiEpqeawtCfXL6-lSEwv-2loS_d0jCmyBz7eMtKvozoQn6_hpujSPx7A1dxepMuAO4XXUXlhp9uTgA)
+
 
 ### PCI Standards
 
@@ -226,11 +227,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTA1NDY4NywxNDE3ODk3NTgsLTEyMD
-k2NjE4OTUsLTE1MzczMTk5NCwxNTY5NTc4Mzc5LC0xNzI5MjMz
-OTE2LDE4MTE2OTU1NzEsMTc2MzAzMTI1NSwzNzk2NzIzMTYsLT
-EwODA5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1MzEzNjEyNzcsLTIx
-NjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMwOT
-IzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0y
-NjYxNjA0MDZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDI4NDgzMjAsMTQxNzg5NzU4LC0xMj
+A5NjYxODk1LC0xNTM3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIz
+MzkxNiwxODExNjk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC
+0xMDgwOTM4NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0y
+MTY3MjExOTcsLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMD
+kyMywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwt
+MjY2MTYwNDA2XX0=
 -->
