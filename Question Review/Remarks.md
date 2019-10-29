@@ -232,10 +232,9 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 - ISO/IEC 27005:2008 - Information Security Risk Management
 - ISO/IEC 27006:2007 – Requirements for Bodies Providing Audit and Certification of Information Security Management Systems
 - ISO 28000:2007 - Specification for security management systems for the supply chain
-- 
 
 ### PCI Standards
-
+- **Payment Card Industry Data Security Standard (PCI DSS)**
 
 
 
@@ -248,7 +247,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ5MjI3MDUsLTE3OTAzNDg5MzYsND
+eyJoaXN0b3J5IjpbLTEyMTY0MzAyMjMsLTE3OTAzNDg5MzYsND
 IxMTc0NTI2LC0xOTk0Njk1NzUxLDEwMjQ2MTcyNjksLTIxNDI4
 NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYxODk1LC0xNTM3MzE5OT
 QsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODExNjk1NTcxLDE3
