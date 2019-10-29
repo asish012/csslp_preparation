@@ -206,7 +206,8 @@ NIST also includes computer security-related Federal Information Processing Stan
 - International Telecommunications Union (ITU): Develops telecommunication standards
 
 ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several International Standards that are directly related to information security.
-
+- **ISO/IEC 15408 – Evaluating Criteria for IT Security (Common Criteria)**
+  Commonly known as the Common Criteria.
 
 
 ### PCI Standards
@@ -223,11 +224,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk2NjE4OTUsLTE1MzczMTk5NCwxNT
-Y5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2MzAz
-MTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0MzM0NjUxOT
-YsLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4
-OTI4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MT
-U2OSwtNDEzMTkxODU4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQs
-LTcyNzIwMTA5MF19
+eyJoaXN0b3J5IjpbMTQxNzg5NzU4LC0xMjA5NjYxODk1LC0xNT
+M3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODExNjk1
+NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4NjQ0LC
+0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOTcsLTE3
+NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDkyMywyMTAyNzg2Mj
+k1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0x
+NTE0MjkzNzQ0XX0=
 -->
