@@ -227,6 +227,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 - **ISO/IEC 25000:2005 – Software Engineering Product Quality**
 - **ISO/IEC 27000:2009 – Information Security Management System (ISMS) Overview and Vocabulary**
+- **ISO/IEC 27001:2005 – Information Security Management Systems Requirements**
 
 ### PCI Standards
 
@@ -242,11 +243,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAzNDg5MzYsNDIxMTc0NTI2LC0xOT
-k0Njk1NzUxLDEwMjQ2MTcyNjksLTIxNDI4NDgzMjAsMTQxNzg5
-NzU4LC0xMjA5NjYxODk1LC0xNTM3MzE5OTQsMTU2OTU3ODM3OS
-wtMTcyOTIzMzkxNiwxODExNjk1NTcxLDE3NjMwMzEyNTUsMzc5
-NjcyMzE2LC0xMDgwOTM4NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMz
-YxMjc3LC0yMTY3MjExOTcsLTE3NDcxNDkyNjYsODkyODA2ODcs
-MTUyMjAzMDkyM119
+eyJoaXN0b3J5IjpbMTcxNDAzMDQxNSwtMTc5MDM0ODkzNiw0Mj
+ExNzQ1MjYsLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMjE0Mjg0
+ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1MzczMTk5NC
+wxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2
+MzAzMTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0MzM0Nj
+UxOTYsLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2
+Niw4OTI4MDY4N119
 -->
