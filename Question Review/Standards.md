@@ -139,8 +139,10 @@ PA-DSS is for vendors who do not store, process or transmit cardholder data.
 
 - **Organization for the Advancement of Structured Information Standards (OASIS)**
 
-
+## Best Practices
+- **Open Web Application Security Project (OWASP)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5ODg3OTc1LC02MTk2MDUxMDMsODkyMj
-M2OTcwLDEzNTMwMzIwMzIsLTcxNTcwMzc0OF19
+eyJoaXN0b3J5IjpbMTU4OTY5NjczOCw1NTk4ODc5NzUsLTYxOT
+YwNTEwMyw4OTIyMzY5NzAsMTM1MzAzMjAzMiwtNzE1NzAzNzQ4
+XX0=
 -->
