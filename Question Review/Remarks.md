@@ -211,7 +211,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   
   The product or system that is being evaluated is known as the Target of Evaluation (TOE).  
   The Protection Profile (PP) is used to create a set of generalized security requirements.  
-  
+  The Security Target (ST) expresses the security requirements and specifies the security functions.  
   The relationships between the Protection Profile (PP), the Security Target (ST) and the Target of Evaluation (TOE).
 ![enter image description here](https://lh3.googleusercontent.com/tiEpqeawtCfXL6-lSEwv-2loS_d0jCmyBz7eMtKvozoQn6_hpujSPx7A1dxepMuAO4XXUXlhp9uTgA)
 
@@ -230,7 +230,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTQzNjIzNiwtMjE0Mjg0ODMyMCwxND
+eyJoaXN0b3J5IjpbMTAyNDYxNzI2OSwtMjE0Mjg0ODMyMCwxND
 E3ODk3NTgsLTEyMDk2NjE4OTUsLTE1MzczMTk5NCwxNTY5NTc4
 Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2MzAzMTI1NS
 wzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1
