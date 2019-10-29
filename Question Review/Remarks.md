@@ -208,7 +208,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several International Standards that are directly related to information security.
 - **ISO/IEC 15408 – Evaluating Criteria for IT Security (Common Criteria)**
   Commonly known as the Common Criteria.
-
+Protection Profile (PP), the Security Target (ST) and the Target of Evaluation (TOE)
 
 ### PCI Standards
 
@@ -224,11 +224,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzg5NzU4LC0xMjA5NjYxODk1LC0xNT
-M3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODExNjk1
-NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4NjQ0LC
-0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOTcsLTE3
-NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDkyMywyMTAyNzg2Mj
-k1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0x
-NTE0MjkzNzQ0XX0=
+eyJoaXN0b3J5IjpbMjA4NjU2MDUwNiwxNDE3ODk3NTgsLTEyMD
+k2NjE4OTUsLTE1MzczMTk5NCwxNTY5NTc4Mzc5LC0xNzI5MjMz
+OTE2LDE4MTE2OTU1NzEsMTc2MzAzMTI1NSwzNzk2NzIzMTYsLT
+EwODA5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1MzEzNjEyNzcsLTIx
+NjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMwOT
+IzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0y
+NjYxNjA0MDZdfQ==
 -->
