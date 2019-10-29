@@ -225,6 +225,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   4. **Quantitatively Controlled**: This level focuses on establishing measurable quality goals and objectively managing their performance. 
   5. **Continuously Improving**: At this level, organizational capability and process effectiveness are improved.
 
+- **ISO/IEC 25000:2005 – Software Engineering Product Quality**
 
 
 ### PCI Standards
@@ -241,11 +242,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMj
-E0Mjg0ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1Mzcz
-MTk5NCwxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1Nz
-EsMTc2MzAzMTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0
-MzM0NjUxOTYsLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0Nz
-E0OTI2Niw4OTI4MDY4NywxNTIyMDMwOTIzLDIxMDI3ODYyOTUs
-LTI3NzY4MTU2OV19
+eyJoaXN0b3J5IjpbNDIxMTc0NTI2LC0xOTk0Njk1NzUxLDEwMj
+Q2MTcyNjksLTIxNDI4NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYx
+ODk1LC0xNTM3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNi
+wxODExNjk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgw
+OTM4NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3Mj
+ExOTcsLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDkyMywy
+MTAyNzg2Mjk1XX0=
 -->
