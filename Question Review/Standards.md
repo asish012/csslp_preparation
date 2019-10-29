@@ -133,9 +133,9 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   - Regularly Monitor and Test Networks
   - Maintain an Information Security Policy
 
-
-
+- **Payment Application Data Security Standard (PA-DSS)**
+PA-DSS is for vendors  do not store, process or transmit cardholder data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMjc3Nzc0LDEzNTMwMzIwMzIsLTcxNT
+eyJoaXN0b3J5IjpbNjE1Mjk1Mzg2LDEzNTMwMzIwMzIsLTcxNT
 cwMzc0OF19
 -->
