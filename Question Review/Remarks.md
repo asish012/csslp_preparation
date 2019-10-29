@@ -189,8 +189,8 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
   As a CSSLP you should be familiar with the content of this guide.
 
-- **Federal Information Processing (FIPS) standards**  
-  FIPS publications are developed by NIST to address Federal requirements for:  
+- Federal Information Processing (FIPS) standards  
+FIPS publications are developed by NIST to address Federal requirements for:  
   - interoperability of disparate systems
   - portability of data and software and
   - computer security
@@ -235,6 +235,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 ### PCI Standards
 - **Payment Card Industry Data Security Standard (PCI DSS)**
+PCI DSS Control Objectives:  
   - Build and Maintain a Secure Network
   - Protect Cardholder Data
   - Maintain a Vulnerability Management Program
@@ -253,11 +254,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTQ3MzczNiwtMTc5MDM0ODkzNiw0Mj
-ExNzQ1MjYsLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMjE0Mjg0
-ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1MzczMTk5NC
-wxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2
-MzAzMTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0MzM0Nj
-UxOTYsLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2
-Niw4OTI4MDY4N119
+eyJoaXN0b3J5IjpbLTg0MjU1ODQyNSwxNjA1NDczNzM2LC0xNz
+kwMzQ4OTM2LDQyMTE3NDUyNiwtMTk5NDY5NTc1MSwxMDI0NjE3
+MjY5LC0yMTQyODQ4MzIwLDE0MTc4OTc1OCwtMTIwOTY2MTg5NS
+wtMTUzNzMxOTk0LDE1Njk1NzgzNzksLTE3MjkyMzM5MTYsMTgx
+MTY5NTU3MSwxNzYzMDMxMjU1LDM3OTY3MjMxNiwtMTA4MDkzOD
+Y0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2MTI3NywtMjE2NzIxMTk3
+LC0xNzQ3MTQ5MjY2XX0=
 -->
