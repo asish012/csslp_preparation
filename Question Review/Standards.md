@@ -136,7 +136,11 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 - **Payment Application Data Security Standard (PA-DSS)**
 PA-DSS is for vendors who do not store, process or transmit cardholder data.
+
+- **Organization for the Advancement of Structured Information Standards (OASIS)**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTYwNTEwMyw4OTIyMzY5NzAsMTM1Mz
-AzMjAzMiwtNzE1NzAzNzQ4XX0=
+eyJoaXN0b3J5IjpbNTU5ODg3OTc1LC02MTk2MDUxMDMsODkyMj
+M2OTcwLDEzNTMwMzIwMzIsLTcxNTcwMzc0OF19
 -->
