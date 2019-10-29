@@ -235,6 +235,12 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 ### PCI Standards
 - **Payment Card Industry Data Security Standard (PCI DSS)**
+  - Build and Maintain a Secure Network
+  - Protect Cardholder Data
+  - Maintain a Vulnerability Management Program
+  - Implement Strong Access Control Measures
+  - Regularly Monitor and Test Networks
+  - Maintain an Information Security Policy
 
 
 
@@ -247,11 +253,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0MzAyMjMsLTE3OTAzNDg5MzYsND
-IxMTc0NTI2LC0xOTk0Njk1NzUxLDEwMjQ2MTcyNjksLTIxNDI4
-NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYxODk1LC0xNTM3MzE5OT
-QsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODExNjk1NTcxLDE3
-NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4NjQ0LC0xNDMzND
-Y1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOTcsLTE3NDcxNDky
-NjYsODkyODA2ODddfQ==
+eyJoaXN0b3J5IjpbMTYwNTQ3MzczNiwtMTc5MDM0ODkzNiw0Mj
+ExNzQ1MjYsLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMjE0Mjg0
+ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1MzczMTk5NC
+wxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2
+MzAzMTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0MzM0Nj
+UxOTYsLTE1MzEzNjEyNzcsLTIxNjcyMTE5NywtMTc0NzE0OTI2
+Niw4OTI4MDY4N119
 -->
