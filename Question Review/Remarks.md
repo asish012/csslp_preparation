@@ -209,9 +209,10 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 - **ISO/IEC 15408 – Evaluating Criteria for IT Security (Common Criteria)**
   Commonly known as the Common Criteria.
   
-  The product or system that is being evaluated is known as the Target of Evaluation (TOE).  
-  The Protection Profile (PP) is used to create a set of generalized security requirements.  
-  The Security Target (ST) expresses the security requirements and specifies the security functions.  
+  Common Criteria elements:
+  - The product or system that is being evaluated is known as the **Target of Evaluation (TOE)**.  
+  - The **Protection Profile (PP)** is used to create a set of generalized security requirements.  
+  - The Security Target (ST) expresses the security requirements and specifies the security functions.  
   The relationships between the Protection Profile (PP), the Security Target (ST) and the Target of Evaluation (TOE).
 ![enter image description here](https://lh3.googleusercontent.com/tiEpqeawtCfXL6-lSEwv-2loS_d0jCmyBz7eMtKvozoQn6_hpujSPx7A1dxepMuAO4XXUXlhp9uTgA)
 
@@ -254,11 +255,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDY5NzIxLDE2MDU0NzM3MzYsLTE3OT
-AzNDg5MzYsNDIxMTc0NTI2LC0xOTk0Njk1NzUxLDEwMjQ2MTcy
-NjksLTIxNDI4NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYxODk1LC
-0xNTM3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODEx
-Njk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4Nj
-Q0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOTcs
-LTE3NDcxNDkyNjZdfQ==
+eyJoaXN0b3J5IjpbLTQ2MTQ5MzY5MywxNjA1NDczNzM2LC0xNz
+kwMzQ4OTM2LDQyMTE3NDUyNiwtMTk5NDY5NTc1MSwxMDI0NjE3
+MjY5LC0yMTQyODQ4MzIwLDE0MTc4OTc1OCwtMTIwOTY2MTg5NS
+wtMTUzNzMxOTk0LDE1Njk1NzgzNzksLTE3MjkyMzM5MTYsMTgx
+MTY5NTU3MSwxNzYzMDMxMjU1LDM3OTY3MjMxNiwtMTA4MDkzOD
+Y0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2MTI3NywtMjE2NzIxMTk3
+LC0xNzQ3MTQ5MjY2XX0=
 -->
