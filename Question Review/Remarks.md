@@ -225,8 +225,8 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   4. **Quantitatively Controlled**: This level focuses on establishing measurable quality goals and objectively managing their performance. 
   5. **Continuously Improving**: At this level, organizational capability and process effectiveness are improved.
 
-- **ISO/IEC 25000:2005 – Software Engineering Product Quality**
-- **ISO/IEC 27000:2009 – Information Security Management System (ISMS) Overview and Vocabulary**
+- ISO/IEC 25000:2005 – Software Engineering Product Quality
+- ISO/IEC 27000:2009 – Information Security Management System (ISMS) Overview and Vocabulary
 - **ISO/IEC 27001:2005 – Information Security Management Systems Requirements**
 
 ### PCI Standards
@@ -243,7 +243,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDAzMDQxNSwtMTc5MDM0ODkzNiw0Mj
+eyJoaXN0b3J5IjpbLTc3ODkyMTA3MywtMTc5MDM0ODkzNiw0Mj
 ExNzQ1MjYsLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMjE0Mjg0
 ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1MzczMTk5NC
 wxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2
