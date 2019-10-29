@@ -107,18 +107,6 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
   + Manage Project Risk
   + Improve Organization's System Engineering Process
 
-## U.S. Organizations
-- **The Office of Management and Budget (OMB)**:  
-  The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
-- **Defense Contract Audit Agency (DCAA)**:  
-  DCAA provides audit and financial advisory services to Department of Defense (DoD) and other federal entities.
-- **NSA/CSS**:  
-  The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
-the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also responsible for protecting U.S. government communications and information systems from similar agencies elsewhere, which involves cryptography. 
-The Central Security Service (CSS) is created to coordinate intelligence activities and cooperation between NSA and U.S. military cryptanalysis agencies.
-- **NIST**:  
-  The National Institute of Standards and Technology (NIST) is a measurement standards laboratory which is a non-regulatory agency of the United States Department of Commerce. The institute's official mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve quality of life.
-
 
 
 tax 60
@@ -129,11 +117,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODU1NDUzMSwxODUwNDUyNDkxLDE2MD
-U0NzM3MzYsLTE3OTAzNDg5MzYsNDIxMTc0NTI2LC0xOTk0Njk1
-NzUxLDEwMjQ2MTcyNjksLTIxNDI4NDgzMjAsMTQxNzg5NzU4LC
-0xMjA5NjYxODk1LC0xNTM3MzE5OTQsMTU2OTU3ODM3OSwtMTcy
-OTIzMzkxNiwxODExNjk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMz
-E2LC0xMDgwOTM4NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3
-LC0yMTY3MjExOTddfQ==
+eyJoaXN0b3J5IjpbLTExNDgzMjA2MzksMTg1MDQ1MjQ5MSwxNj
+A1NDczNzM2LC0xNzkwMzQ4OTM2LDQyMTE3NDUyNiwtMTk5NDY5
+NTc1MSwxMDI0NjE3MjY5LC0yMTQyODQ4MzIwLDE0MTc4OTc1OC
+wtMTIwOTY2MTg5NSwtMTUzNzMxOTk0LDE1Njk1NzgzNzksLTE3
+MjkyMzM5MTYsMTgxMTY5NTU3MSwxNzYzMDMxMjU1LDM3OTY3Mj
+MxNiwtMTA4MDkzODY0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2MTI3
+NywtMjE2NzIxMTk3XX0=
 -->
