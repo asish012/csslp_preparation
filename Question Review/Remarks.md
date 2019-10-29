@@ -186,13 +186,14 @@ NIST also includes computer security-related Federal Information Processing Stan
   - Focusing on any engineering or design issues that may require redesign at a later stage of the SDLC.
   - Identifying shared security services that can be leveraged which reduces development cost and time.
   - Managing risk and facilitating executives to make informed risk related decisions.
-
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
   As a CSSLP you should be familiar with the content of this guide.
 - **Federal Information Processing (FIPS) standards**  
   - FIPS 140: Security Requirement for Cryptographic Modules
   - FIPS 186: Digital Signature Standard
   - FIPS 197: Advanced Encryption Standard
+
+
 
 tax 60
 insurance 30
@@ -202,11 +203,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzAzMTI1NSwzNzk2NzIzMTYsLTEwOD
-A5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1MzEzNjEyNzcsLTIxNjcy
-MTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMwOTIzLD
-IxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYx
-NjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyND
-M0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYw
-MTQyODgyNl19
+eyJoaXN0b3J5IjpbLTE4NjA2MjI1OSwxNzYzMDMxMjU1LDM3OT
+Y3MjMxNiwtMTA4MDkzODY0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2
+MTI3NywtMjE2NzIxMTk3LC0xNzQ3MTQ5MjY2LDg5MjgwNjg3LD
+E1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3NjgxNTY5LC00MTMx
+OTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNzI3MjAxMD
+kwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2NDMsLTQx
+Mzg5ODQxMl19
 -->
