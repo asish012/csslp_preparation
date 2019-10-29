@@ -234,7 +234,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 - ISO 28000:2007 - Specification for security management systems for the supply chain
 
 ### PCI Standards
-- **Payment Card Industry Data Security Standard (PCI DSS)**
+- **Payment Card Industry Data Security Standard (PCI DSS)**  
 PCI DSS Control Objectives:  
   - Build and Maintain a Secure Network
   - Protect Cardholder Data
@@ -254,11 +254,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTI0NDA1NywxNjA1NDczNzM2LC0xNz
-kwMzQ4OTM2LDQyMTE3NDUyNiwtMTk5NDY5NTc1MSwxMDI0NjE3
-MjY5LC0yMTQyODQ4MzIwLDE0MTc4OTc1OCwtMTIwOTY2MTg5NS
-wtMTUzNzMxOTk0LDE1Njk1NzgzNzksLTE3MjkyMzM5MTYsMTgx
-MTY5NTU3MSwxNzYzMDMxMjU1LDM3OTY3MjMxNiwtMTA4MDkzOD
-Y0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2MTI3NywtMjE2NzIxMTk3
-LC0xNzQ3MTQ5MjY2XX0=
+eyJoaXN0b3J5IjpbMTkyNzE0MjE1LDE2MDU0NzM3MzYsLTE3OT
+AzNDg5MzYsNDIxMTc0NTI2LC0xOTk0Njk1NzUxLDEwMjQ2MTcy
+NjksLTIxNDI4NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYxODk1LC
+0xNTM3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODEx
+Njk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4Nj
+Q0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOTcs
+LTE3NDcxNDkyNjZdfQ==
 -->
