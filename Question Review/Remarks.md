@@ -228,6 +228,8 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 - ISO/IEC 25000:2005 – Software Engineering Product Quality
 - ISO/IEC 27000:2009 – Information Security Management System (ISMS) Overview and Vocabulary
 - **ISO/IEC 27001:2005 – Information Security Management Systems Requirements**
+- ISO/IEC 27002:2005/Cor1:2007 – Code of Practice for Information Security Management
+- 
 
 ### PCI Standards
 
@@ -243,7 +245,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODkyMTA3MywtMTc5MDM0ODkzNiw0Mj
+eyJoaXN0b3J5IjpbMTYxNDYwNjM3OSwtMTc5MDM0ODkzNiw0Mj
 ExNzQ1MjYsLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMjE0Mjg0
 ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1MzczMTk5NC
 wxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1NzEsMTc2
