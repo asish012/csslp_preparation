@@ -188,6 +188,7 @@ NIST also includes computer security-related Federal Information Processing Stan
   - Managing risk and facilitating executives to make informed risk related decisions.
 
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
+  As a CSSLP you should be familiar with the content of this guide.
 - **Federal Information Processing (FIPS) standards**  
   - FIPS 140: Security Requirement for Cryptographic Modules
   - FIPS 186: Digital Signature Standard
@@ -201,11 +202,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NjcyMzE2LC0xMDgwOTM4NjQ0LC0xND
-MzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOTcsLTE3NDcx
-NDkyNjYsODkyODA2ODcsMTUyMjAzMDkyMywyMTAyNzg2Mjk1LC
-0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNTE0
-MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2MDY1ODg4NT
-ksLTI5MDcxMjY0MywtNDEzODk4NDEyLC02MDE0Mjg4MjYsMTI1
-NDQwNDg4XX0=
+eyJoaXN0b3J5IjpbMTc2MzAzMTI1NSwzNzk2NzIzMTYsLTEwOD
+A5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1MzEzNjEyNzcsLTIxNjcy
+MTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIyMDMwOTIzLD
+IxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxODU4LC0yNjYx
+NjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwxMTkxMjcyND
+M0LDYwNjU4ODg1OSwtMjkwNzEyNjQzLC00MTM4OTg0MTIsLTYw
+MTQyODgyNl19
 -->
