@@ -1,3 +1,15 @@
+## U.S. Organizations
+- **The Office of Management and Budget (OMB)**:  
+  The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
+- **Defense Contract Audit Agency (DCAA)**:  
+  DCAA provides audit and financial advisory services to Department of Defense (DoD) and other federal entities.
+- **NSA/CSS**:  
+  The National Security Agency/Central Security Service (NSA/CSS) is a crypto-logic intelligence agency of the United States government. It is administered as part of
+the United States Department of Defense. NSA is responsible for the collection and analysis of foreign communications and foreign signals intelligence, which involves cryptanalysis. NSA is also responsible for protecting U.S. government communications and information systems from similar agencies elsewhere, which involves cryptography. 
+The Central Security Service (CSS) is created to coordinate intelligence activities and cooperation between NSA and U.S. military cryptanalysis agencies.
+- **NIST**:  
+  The National Institute of Standards and Technology (NIST) is a measurement standards laboratory which is a non-regulatory agency of the United States Department of Commerce. The institute's official mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve quality of life.
+
 ## Security Standards
 High level security policies are supported by more detailed security standards.
 
@@ -125,5 +137,5 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTU4NzU1Ml19
+eyJoaXN0b3J5IjpbLTcxNTcwMzc0OF19
 -->
