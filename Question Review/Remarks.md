@@ -202,7 +202,8 @@ NIST also includes computer security-related Federal Information Processing Stan
   - FIPS 201: Personal Identity Verification (PIV) of Federal Employees and Contractors
 
 ### **ISO Standards**
--- **Topic**
+- International Electrotechnical Commission (IEC): Develops Electrotechnology standards
+- International Telecommunications Union (ITU)
 - item
 
 ### **PCI Standards**
@@ -219,11 +220,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzczMTk5NCwxNTY5NTc4Mzc5LC0xNz
-I5MjMzOTE2LDE4MTE2OTU1NzEsMTc2MzAzMTI1NSwzNzk2NzIz
-MTYsLTEwODA5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1MzEzNjEyNz
-csLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIy
-MDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxOD
-U4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwx
-MTkxMjcyNDM0XX0=
+eyJoaXN0b3J5IjpbNTY3NTU0MzkwLC0xNTM3MzE5OTQsMTU2OT
+U3ODM3OSwtMTcyOTIzMzkxNiwxODExNjk1NTcxLDE3NjMwMzEy
+NTUsMzc5NjcyMzE2LC0xMDgwOTM4NjQ0LC0xNDMzNDY1MTk2LC
+0xNTMxMzYxMjc3LC0yMTY3MjExOTcsLTE3NDcxNDkyNjYsODky
+ODA2ODcsMTUyMjAzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1Nj
+ksLTQxMzE5MTg1OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC03
+MjcyMDEwOTBdfQ==
 -->
