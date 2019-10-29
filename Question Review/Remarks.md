@@ -218,7 +218,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   ISO/IEC 15408 Evaluation Assurance Level (FSMMSSF)
 ![enter image description here](https://lh3.googleusercontent.com/Mlq-IiMOvxDfE2AyQDTikTXAjtLN1qe9GzO71wktfdxcwrvAmvPY3PHlhR85akINdcsNkIuf66HJ5Q)
 
-- **ISO/IEC 15408 - Standard and Software Security**
+- **ISO/IEC 21827:2008 – Systems Security Engineering Capability Maturity Model® (SSE-CMM®)**
 
 
 
@@ -236,7 +236,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzkyOTMyLDEwMjQ2MTcyNjksLTIxND
+eyJoaXN0b3J5IjpbMjk2Mjk3NTQ0LDEwMjQ2MTcyNjksLTIxND
 I4NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYxODk1LC0xNTM3MzE5
 OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODExNjk1NTcxLD
 E3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4NjQ0LC0xNDMz
