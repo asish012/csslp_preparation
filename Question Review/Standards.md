@@ -141,9 +141,9 @@ PA-DSS is for vendors who do not store, process or transmit cardholder data.
 
 ## Best Practices
 - **Open Web Application Security Project (OWASP)**
-- 0.  Information Technology Infrastructure Library (ITIL)
+- **Information Technology Infrastructure Library (ITIL)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODEwNDg4Niw1NTk4ODc5NzUsLTYxOT
+eyJoaXN0b3J5IjpbLTM2MjE3ODc0NCw1NTk4ODc5NzUsLTYxOT
 YwNTEwMyw4OTIyMzY5NzAsMTM1MzAzMjAzMiwtNzE1NzAzNzQ4
 XX0=
 -->
