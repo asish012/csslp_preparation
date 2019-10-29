@@ -125,7 +125,8 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 ### PCI Standards
 - **Payment Card Industry Data Security Standard (PCI DSS)**  
-  PCI DSS Control Objectives:  
+  PCI-DSS is for vendors who store, process or transmit cardholder data.  
+  PCI-DSS Control Objectives:  
   - Build and Maintain a Secure Network
   - Protect Cardholder Data
   - Maintain a Vulnerability Management Program
@@ -136,6 +137,6 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 - **Payment Application Data Security Standard (PA-DSS)**
 PA-DSS is for vendors who do not store, process or transmit cardholder data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMjM2OTcwLDEzNTMwMzIwMzIsLTcxNT
-cwMzc0OF19
+eyJoaXN0b3J5IjpbLTYxOTYwNTEwMyw4OTIyMzY5NzAsMTM1Mz
+AzMjAzMiwtNzE1NzAzNzQ4XX0=
 -->
