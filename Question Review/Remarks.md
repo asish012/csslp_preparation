@@ -196,8 +196,8 @@ NIST also includes computer security-related Federal Information Processing Stan
   
   FIPS publications related to software security are:  
   - FIPS 140: Security Requirement for Cryptographic Modules
-  - FIPS 186: Digital Signature Standard
-  - FIPS 197: Advanced Encryption Standard
+  - FIPS 186: Digital Signature Standard (DSS)
+  - FIPS 197: Advanced Encryption Standard (AES)
   - FIPS 201: Personal Identity Verification (PIV) of Federal Employees and Contractors
 
 
@@ -210,11 +210,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTY5NTU3MSwxNzYzMDMxMjU1LDM3OT
-Y3MjMxNiwtMTA4MDkzODY0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2
-MTI3NywtMjE2NzIxMTk3LC0xNzQ3MTQ5MjY2LDg5MjgwNjg3LD
-E1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3NjgxNTY5LC00MTMx
-OTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mzc0NCwtNzI3MjAxMD
-kwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0yOTA3MTI2NDMsLTQx
-Mzg5ODQxMl19
+eyJoaXN0b3J5IjpbLTE3MjkyMzM5MTYsMTgxMTY5NTU3MSwxNz
+YzMDMxMjU1LDM3OTY3MjMxNiwtMTA4MDkzODY0NCwtMTQzMzQ2
+NTE5NiwtMTUzMTM2MTI3NywtMjE2NzIxMTk3LC0xNzQ3MTQ5Mj
+Y2LDg5MjgwNjg3LDE1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3
+NjgxNTY5LC00MTMxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mz
+c0NCwtNzI3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0y
+OTA3MTI2NDNdfQ==
 -->
