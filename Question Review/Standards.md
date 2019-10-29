@@ -134,8 +134,6 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
   - Maintain an Information Security Policy
 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTcwMzc0OF19
+eyJoaXN0b3J5IjpbMTM1MzAzMjAzMiwtNzE1NzAzNzQ4XX0=
 -->
