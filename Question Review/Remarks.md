@@ -107,7 +107,7 @@ Quantitative risk analysis is in-depth and often requires a schedule and budget 
   + Manage Project Risk
   + Improve Organization's System Engineering Process
 
-### U.S. Organizations
+## U.S. Organizations
 - **The Office of Management and Budget (OMB)**:  
   The OMB assists the President in overseeing the preparation of the federal budget and to supervise its administration in Executive Branch agencies.
 - **Defense Contract Audit Agency (DCAA)**:  
@@ -119,7 +119,7 @@ The Central Security Service (CSS) is created to coordinate intelligence activit
 - **NIST**:  
   The National Institute of Standards and Technology (NIST) is a measurement standards laboratory which is a non-regulatory agency of the United States Department of Commerce. The institute's official mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve quality of life.
 
-### Security Standards
+## Security Standards
 High level security policies are supported by more detailed security standards.
 
 ![](https://lh3.googleusercontent.com/tA0V5EcZnp-EHLazgiLlTVI-eoopjWc8MTMgaWTyPjfJNgTaJxtfTQi10szA8r-hVgH52xK0bHN_KQ)
@@ -136,7 +136,7 @@ External standards can also be classified based on the extent of recognition:
 - National: National security standards are often more focused and inclusive of local customs. eg. Federal Information Processing Standards (FIPS)
 - International: International standards are usually more comprehensive and generic.
 
--- **NIST Standards**
+### **NIST Standards**
 NIST programs assist in improving the quality and capabilities of software used by business, research institutions and consumers. They help secure electronic data and maintain availability of critical electronic services by identifying vulnerabilities and cost-effective security measures.
 
 NIST have the statutory responsibility to set security standards and guidelines for sensitive Federal systems but these standards are selectively adopted and used by the private sector on a voluntary basis as well.
@@ -152,7 +152,7 @@ NIST also includes computer security-related Federal Information Processing Stan
 	  - SP 800 : information technology security related
   + Federal Information Processing Standards (FIPS)
 
-**Details about Special Publications:**  
+-- **Details about Special Publications (SP):**  
 - **SP 800-12: An Introduction to Computer Security**  
   Categories of security controls
   - management controls
@@ -217,7 +217,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjM3MzgzMywtMTcyOTIzMzkxNiwxOD
+eyJoaXN0b3J5IjpbLTcwOTQwMTQwNCwtMTcyOTIzMzkxNiwxOD
 ExNjk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4
 NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOT
 csLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDkyMywyMTAy
