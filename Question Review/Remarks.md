@@ -209,14 +209,12 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 - **ISO/IEC 15408 – Evaluating Criteria for IT Security (Common Criteria)**
   Commonly known as the Common Criteria.
   
-  Common Criteria elements:
+  Common Criteria elements:  
   - The product or system that is being evaluated is known as the **Target of Evaluation (TOE)**.  
   - The **Protection Profile (PP)** is used to create a set of generalized security requirements.  
-  - The Security Target (ST) expresses the security requirements and specifies the security functions.  
-  The relationships between the Protection Profile (PP), the Security Target (ST) and the Target of Evaluation (TOE).
-![enter image description here](https://lh3.googleusercontent.com/tiEpqeawtCfXL6-lSEwv-2loS_d0jCmyBz7eMtKvozoQn6_hpujSPx7A1dxepMuAO4XXUXlhp9uTgA)
+  - The **Security Target (ST)** expresses the security requirements and specifies the security functions.  
 
-  ISO/IEC 15408 Evaluation Assurance Level (FSMMSSF)
+  ISO/IEC 15408 Evaluation Assurance Level (FSMMSSF)  
 ![enter image description here](https://lh3.googleusercontent.com/Mlq-IiMOvxDfE2AyQDTikTXAjtLN1qe9GzO71wktfdxcwrvAmvPY3PHlhR85akINdcsNkIuf66HJ5Q)
 
 - **ISO/IEC 21827:2008 – Systems Security Engineering Capability Maturity Model (SSE-CMM)**
@@ -255,7 +253,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTQ5MzY5MywxNjA1NDczNzM2LC0xNz
+eyJoaXN0b3J5IjpbMTg1MDQ1MjQ5MSwxNjA1NDczNzM2LC0xNz
 kwMzQ4OTM2LDQyMTE3NDUyNiwtMTk5NDY5NTc1MSwxMDI0NjE3
 MjY5LC0yMTQyODQ4MzIwLDE0MTc4OTc1OCwtMTIwOTY2MTg5NS
 wtMTUzNzMxOTk0LDE1Njk1NzgzNzksLTE3MjkyMzM5MTYsMTgx
