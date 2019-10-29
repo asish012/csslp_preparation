@@ -219,8 +219,8 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 ![enter image description here](https://lh3.googleusercontent.com/Mlq-IiMOvxDfE2AyQDTikTXAjtLN1qe9GzO71wktfdxcwrvAmvPY3PHlhR85akINdcsNkIuf66HJ5Q)
 
 - **ISO/IEC 21827:2008 – Systems Security Engineering Capability Maturity Model (SSE-CMM)**
-  1. Performed Informally: Base processes are performed. 
-  2. Planned and Tracked: Project-level definition, planning, and performance verification issues are addressed. 
+  1. **Performed Informally**: Base processes are performed. 
+  2. **Planned and Tracked**: Project-level definition, planning, and performance verification issues are addressed. 
   3. **Well-Defined**: The focus is on defining and refining a standard practice and coordinating it across the organization. 
   4. **Quantitatively Controlled**: This level focuses on establishing measurable quality goals and objectively managing their performance. 
   5. **Continuously Improving**: At this level, organizational capability and process effectiveness are improved.
@@ -241,7 +241,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE0MDU3NjcsMTAyNDYxNzI2OSwtMj
+eyJoaXN0b3J5IjpbLTE5OTQ2OTU3NTEsMTAyNDYxNzI2OSwtMj
 E0Mjg0ODMyMCwxNDE3ODk3NTgsLTEyMDk2NjE4OTUsLTE1Mzcz
 MTk5NCwxNTY5NTc4Mzc5LC0xNzI5MjMzOTE2LDE4MTE2OTU1Nz
 EsMTc2MzAzMTI1NSwzNzk2NzIzMTYsLTEwODA5Mzg2NDQsLTE0
