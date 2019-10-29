@@ -200,6 +200,13 @@ NIST also includes computer security-related Federal Information Processing Stan
   - FIPS 197: Advanced Encryption Standard (AES)
   - FIPS 201: Personal Identity Verification (PIV) of Federal Employees and Contractors
 
+-- **ISO Standards**
+
+
+-- **PCI Standards**
+
+
+
 
 
 tax 60
@@ -210,11 +217,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkyMzM5MTYsMTgxMTY5NTU3MSwxNz
-YzMDMxMjU1LDM3OTY3MjMxNiwtMTA4MDkzODY0NCwtMTQzMzQ2
-NTE5NiwtMTUzMTM2MTI3NywtMjE2NzIxMTk3LC0xNzQ3MTQ5Mj
-Y2LDg5MjgwNjg3LDE1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3
-NjgxNTY5LC00MTMxOTE4NTgsLTI2NjE2MDQwNiwtMTUxNDI5Mz
-c0NCwtNzI3MjAxMDkwLDExOTEyNzI0MzQsNjA2NTg4ODU5LC0y
-OTA3MTI2NDNdfQ==
+eyJoaXN0b3J5IjpbMTEwNjM3MzgzMywtMTcyOTIzMzkxNiwxOD
+ExNjk1NTcxLDE3NjMwMzEyNTUsMzc5NjcyMzE2LC0xMDgwOTM4
+NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMjc3LC0yMTY3MjExOT
+csLTE3NDcxNDkyNjYsODkyODA2ODcsMTUyMjAzMDkyMywyMTAy
+Nzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MTg1OCwtMjY2MTYwND
+A2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAsMTE5MTI3MjQzNCw2
+MDY1ODg4NTldfQ==
 -->
