@@ -235,7 +235,7 @@ ISO in conjunction with IEC (prefixed as ISO/IEC) has developed several Internat
 
 ### PCI Standards
 - **Payment Card Industry Data Security Standard (PCI DSS)**  
-PCI DSS Control Objectives:  
+  PCI DSS Control Objectives:  
   - Build and Maintain a Secure Network
   - Protect Cardholder Data
   - Maintain a Vulnerability Management Program
@@ -254,7 +254,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzE0MjE1LDE2MDU0NzM3MzYsLTE3OT
+eyJoaXN0b3J5IjpbLTQxNDY5NzIxLDE2MDU0NzM3MzYsLTE3OT
 AzNDg5MzYsNDIxMTc0NTI2LC0xOTk0Njk1NzUxLDEwMjQ2MTcy
 NjksLTIxNDI4NDgzMjAsMTQxNzg5NzU4LC0xMjA5NjYxODk1LC
 0xNTM3MzE5OTQsMTU2OTU3ODM3OSwtMTcyOTIzMzkxNiwxODEx
