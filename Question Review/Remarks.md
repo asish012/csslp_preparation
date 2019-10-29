@@ -136,7 +136,7 @@ External standards can also be classified based on the extent of recognition:
 - National: National security standards are often more focused and inclusive of local customs. eg. Federal Information Processing Standards (FIPS)
 - International: International standards are usually more comprehensive and generic.
 
-### **NIST Standards**
+### NIST Standards
 NIST programs assist in improving the quality and capabilities of software used by business, research institutions and consumers. They help secure electronic data and maintain availability of critical electronic services by identifying vulnerabilities and cost-effective security measures.
 
 NIST have the statutory responsibility to set security standards and guidelines for sensitive Federal systems but these standards are selectively adopted and used by the private sector on a voluntary basis as well.
@@ -219,11 +219,11 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQyMzE5NjIsMTU2OTU3ODM3OSwtMT
-cyOTIzMzkxNiwxODExNjk1NTcxLDE3NjMwMzEyNTUsMzc5Njcy
-MzE2LC0xMDgwOTM4NjQ0LC0xNDMzNDY1MTk2LC0xNTMxMzYxMj
-c3LC0yMTY3MjExOTcsLTE3NDcxNDkyNjYsODkyODA2ODcsMTUy
-MjAzMDkyMywyMTAyNzg2Mjk1LC0yNzc2ODE1NjksLTQxMzE5MT
-g1OCwtMjY2MTYwNDA2LC0xNTE0MjkzNzQ0LC03MjcyMDEwOTAs
-MTE5MTI3MjQzNF19
+eyJoaXN0b3J5IjpbLTE1MzczMTk5NCwxNTY5NTc4Mzc5LC0xNz
+I5MjMzOTE2LDE4MTE2OTU1NzEsMTc2MzAzMTI1NSwzNzk2NzIz
+MTYsLTEwODA5Mzg2NDQsLTE0MzM0NjUxOTYsLTE1MzEzNjEyNz
+csLTIxNjcyMTE5NywtMTc0NzE0OTI2Niw4OTI4MDY4NywxNTIy
+MDMwOTIzLDIxMDI3ODYyOTUsLTI3NzY4MTU2OSwtNDEzMTkxOD
+U4LC0yNjYxNjA0MDYsLTE1MTQyOTM3NDQsLTcyNzIwMTA5MCwx
+MTkxMjcyNDM0XX0=
 -->
