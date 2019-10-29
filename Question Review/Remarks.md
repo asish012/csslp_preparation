@@ -189,15 +189,16 @@ NIST also includes computer security-related Federal Information Processing Stan
 - **SP 800-100: Information Security Handbook: A Guide for Managers**  
   As a CSSLP you should be familiar with the content of this guide.
 - **Federal Information Processing (FIPS) standards**  
-  FIPS publications are developed to address Federal requirements for:
+  FIPS publications are developed to address Federal requirements for:  
   - interoperability of disparate systems
   - portability of data and software and
   - computer security
   
-  FIPS publications
+  FIPS publications related to software security are:  
   - FIPS 140: Security Requirement for Cryptographic Modules
   - FIPS 186: Digital Signature Standard
   - FIPS 197: Advanced Encryption Standard
+  - FIPS 201: Personal Identity Verification (PIV) of Federal Employees and Contractors
 
 
 
@@ -209,7 +210,7 @@ interest 250
 capital 500
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjU5Nzk0OSwxNzYzMDMxMjU1LDM3OT
+eyJoaXN0b3J5IjpbMTgxMTY5NTU3MSwxNzYzMDMxMjU1LDM3OT
 Y3MjMxNiwtMTA4MDkzODY0NCwtMTQzMzQ2NTE5NiwtMTUzMTM2
 MTI3NywtMjE2NzIxMTk3LC0xNzQ3MTQ5MjY2LDg5MjgwNjg3LD
 E1MjIwMzA5MjMsMjEwMjc4NjI5NSwtMjc3NjgxNTY5LC00MTMx
