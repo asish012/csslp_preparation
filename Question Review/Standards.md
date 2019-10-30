@@ -141,14 +141,20 @@ PA-DSS is for vendors who do not store, process or transmit cardholder data.
 
 ## Best Practices
 - **Open Web Application Security Project (OWASP)**  
-Popular guides developed in the OWASP:  
+  Popular guides developed in the OWASP:  
 	- Development Guide
 	- Code Review Guide and the
 	- Testing Guide
 
+  For a successful code review process, the reviewer must be familiar with the following:  
+  - Programming Language (Code)
+  - Working knowledge of the software (Context)
+  - End-users (Audience)
+  - Impact of the availability of the software to the business or its lack thereof (Importance)
+
 - **Information Technology Infrastructure Library (ITIL)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMjE0MzEzLC0zNjIxNzg3NDQsNTU5OD
-g3OTc1LC02MTk2MDUxMDMsODkyMjM2OTcwLDEzNTMwMzIwMzIs
-LTcxNTcwMzc0OF19
+eyJoaXN0b3J5IjpbLTg5NzY5MjgyNCw0MjIyMTQzMTMsLTM2Mj
+E3ODc0NCw1NTk4ODc5NzUsLTYxOTYwNTEwMyw4OTIyMzY5NzAs
+MTM1MzAzMjAzMiwtNzE1NzAzNzQ4XX0=
 -->
